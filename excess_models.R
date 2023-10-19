@@ -11,38 +11,31 @@ library(magick)
 library(grid)
 
 
-dat = readRDS("Weekly_Mort_wCancer.rds") %>% 
-  filter(!is.na(Population),MMWRdate!='2020-12-27') #remove incomplete week of data 
-table(dat$staters,useNA='always')
 
-dat_national = dat %>% 
-  select(-staters, -year) %>% 
-  group_by(MMWRdate) %>% 
-  summarise_all(sum) %>% 
-  ungroup () %>% 
-  mutate_at(vars(resp_uc:hiv_mc),
+dat_national =  readRDS("weekly_mort_US.rds")%>% 
+  mutate_at(vars(covid19_uc:kidney_mc),
             list(ma = ~ zoo::rollapply(., 5, FUN=function(x) round(mean(x, na.rm=TRUE)),fill=NA))) %>% 
   drop_na()
  
 
-dat_ny = dat %>% 
+dat_ny =  readRDS("weekly_mort_states.rds")%>% 
   filter(staters=="NY") %>% 
   ungroup() %>% 
-  mutate_at(vars(resp_uc:hiv_mc),
+  mutate_at(vars(covid19_uc:kidney_mc),
             list(ma = ~ zoo::rollapply(., 5, FUN=function(x) round(mean(x, na.rm=TRUE)),fill=NA))) %>% 
   drop_na()
 
-dat_ca = dat %>% 
+dat_ca = readRDS("weekly_mort_states.rds")%>% 
   filter(staters=="CA") %>% 
   ungroup() %>% 
-  mutate_at(vars(resp_uc:hiv_mc),
+  mutate_at(vars(covid19_uc:kidney_mc),
             list(ma = ~ zoo::rollapply(., 5, FUN=function(x) round(mean(x, na.rm=TRUE)),fill=NA))) %>% 
   drop_na()
 
-dat_tx = dat %>% 
+dat_tx = readRDS("weekly_mort_states.rds")%>% 
   filter(staters=="TX") %>% 
   ungroup() %>% 
-  mutate_at(vars(resp_uc:hiv_mc),
+  mutate_at(vars(covid19_uc:kidney_mc),
             list(ma = ~ zoo::rollapply(., 5, FUN=function(x) round(mean(x, na.rm=TRUE)),fill=NA))) %>% 
   drop_na()
 
@@ -113,14 +106,14 @@ write.csv(results,paste0("model_estimates/excess_",cod,"_",state,".csv"))
 
 # National Models ---------------------------------------------------
 
-cause = c("cancer_mc_ma","cancer_pancreas_mc_ma","cancer_lung_mc_ma","cancer_breast_mc_ma","cancer_colorectal_mc_ma","cancer_blood_mc_ma","cancer_stomach_mc_ma",
-          "diabetes_mc_ma","alzheimer_mc_ma","ihd_mc_ma","cvd_mc_ma","lung_mc_ma","kidney_mc_ma","hiv_mc_ma")
+cause = c("cancer_mc_ma","cancer_pancreas_mc_ma","cancer_lung_mc_ma","cancer_breast_mc_ma","cancer_colorectal_mc_ma","cancer_blood_mc_ma",
+          "diabetes_mc_ma","alzheimer_mc_ma","ihd_mc_ma","kidney_mc_ma")
 
-cause_uc = c("cancer_uc_ma","cancer_pancreas_uc_ma","cancer_lung_uc_ma","cancer_breast_uc_ma","cancer_colorectal_uc_ma","cancer_blood_uc_ma","cancer_stomach_uc_ma",
-          "diabetes_uc_ma","alzheimer_uc_ma","ihd_uc_ma","cvd_uc_ma","lung_uc_ma","kidney_uc_ma","hiv_uc_ma")
+cause_uc = c("cancer_uc_ma","cancer_pancreas_uc_ma","cancer_lung_uc_ma","cancer_breast_uc_ma","cancer_colorectal_uc_ma","cancer_blood_uc_ma",
+          "diabetes_uc_ma","alzheimer_uc_ma","ihd_uc_ma","kidney_uc_ma")
 
-format = c("Cancer","Pancreatic Cancer","Lung Cancer","Breast Cancer","Colorectal Cancer","Blood Cancer","Stomach Cancer",
-           "Diabetes","Alzheimer's","Ischemic Heart Disease","Cerebrovascular Disease","Chronic Lower Respiratory Diseases","Kidney Disease","HIV")
+format = c("Cancer","Pancreatic Cancer","Lung Cancer","Breast Cancer","Colorectal Cancer","Blood Cancer",
+           "Diabetes","Alzheimer's","Ischemic Heart Disease","Kidney Disease")
 
 for(c in 1:length(cause)){
   excess_model(cause[c],dat_national,"National",format[c],"Multiple Cause")

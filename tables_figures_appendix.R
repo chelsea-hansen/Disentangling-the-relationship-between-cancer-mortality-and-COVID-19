@@ -14,16 +14,6 @@ library(RColorBrewer)
 
 '%notin%' = Negate('%in%')
 
-#Upload data 
-
-cause = c("cancer_mc_ma","cancer_pancreas_mc_ma","cancer_lung_mc_ma","cancer_breast_mc_ma","cancer_colorectal_mc_ma","cancer_blood_mc_ma","cancer_stomach_mc_ma",
-          "diabetes_mc_ma","alzheimer_mc_ma","ihd_mc_ma","cvd_mc_ma","lung_mc_ma","kidney_mc_ma","hiv_mc_ma")
-
-cause_uc = c("cancer_uc_ma","cancer_pancreas_uc_ma","cancer_lung_uc_ma","cancer_breast_uc_ma","cancer_colorectal_uc_ma","cancer_blood_uc_ma","cancer_stomach_uc_ma",
-             "diabetes_uc_ma","alzheimer_uc_ma","ihd_uc_ma","cvd_uc_ma","lung_uc_ma","kidney_uc_ma","hiv_uc_ma")
-
-format = c("Cancer","Pancreatic Cancer","Lung Cancer","Breast Cancer","Colorectal Cancer","Blood Cancer","Stomach Cancer",
-           "Diabetes","Alzheimer's","Ischemic Heart Disease","Cerebrovascular Disease","Chronic Lower Respiratory Diseases","Kidney Disease","HIV")
 
 #order for supplemental figures 
 cause = c("cancer_mc_ma","diabetes_mc_ma","alzheimer_mc_ma","ihd_mc_ma","kidney_mc_ma",
@@ -127,14 +117,14 @@ for(s in 1:length(states)){
 
   table = flextable::as_flextable(table)
   table = flextable::autofit(table)
-  #save_as_docx(table, path="table2.docx")
-  table =  footnote(x=table, i=1,j=3,ref_symbols = c("*"),value = as_paragraph(c("confidence interval does not include zero")))%>% as_raster
+  save_as_docx(table, path=paste0("Appendix_Table",s+1,"_",states[s],".docx"))
+ # table =  footnote(x=table, i=1,j=3,ref_symbols = c("*"),value = as_paragraph(c("confidence interval does not include zero")))%>% as_raster
   
-  gg_tab <- ggplot() + 
-    theme_void() + 
-    annotation_custom(rasterGrob(table), xmin=-Inf, xmax=Inf, ymin=-Inf, ymax=Inf)
-  gg_tab
-  ggsave(plot=gg_tab, paste0("tables/appendix_Table",s+1,"_",states[s],".pdf"),height=11,width=9, units="in")
+  #gg_tab <- ggplot() + 
+    #theme_void() + 
+    #annotation_custom(rasterGrob(table), xmin=-Inf, xmax=Inf, ymin=-Inf, ymax=Inf)
+  #gg_tab
+ # ggsave(plot=gg_tab, paste0("tables/appendix_Table",s+1,"_",states[s],".pdf"),height=11,width=9, units="in")
 }
 
 
@@ -269,16 +259,12 @@ excess_counts = excess_mort %>%
   select(state, cod_format, cod_type, date, excess) %>% 
   filter(date>='2020-03-01')
 
-cov_death = readRDS("Weekly_Mort_wCancer.rds") %>% 
+cov_death = readRDS("weekly_mort_states.rds") %>% 
   filter(staters %in% c("NY","TX","CA"),MMWRdate>='2020-03-01') %>% 
   select(MMWRdate, staters, covid19_uc, covid19_mc)
 
-nat_cov = readRDS("Weekly_Mort_wCancer.rds") %>% 
+nat_cov = readRDS("weekly_mort_US.rds") %>% 
   filter(MMWRdate>='2020-03-01') %>% 
-  group_by(MMWRdate) %>% 
-  summarize(covid19_uc = sum(covid19_uc),
-            covid19_mc = sum(covid19_mc)) %>% 
-  ungroup() %>% 
   mutate(staters="National") %>% 
   select(MMWRdate, staters, covid19_uc, covid19_mc)
 
@@ -334,7 +320,7 @@ for(s in 1:length(states)){
 
 
 # Check UC/MC overlap - for independence in correlations -----------------------------------------------------
-indiv_mort = readRDS("Indiv_Mort_wCancer.rds")
+indiv_mort = readRDS("Indiv_Mort_wCancer.rds") #indicidual-level data not publicly available 
 
 recent = indiv_mort %>% filter((MMWRdate >='2019-03-01'&MMWRdate<='2019-12-31')|(MMWRdate >='2020-03-01' & MMWRdate <='2020-12-31'))%>% 
   mutate(nursing_home = ifelse(placdth=="nursing home",1,0),
