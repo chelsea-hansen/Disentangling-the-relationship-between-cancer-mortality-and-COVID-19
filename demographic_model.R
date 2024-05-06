@@ -79,10 +79,7 @@ data = data.frame(conditions = conditions,
 # Revised version ---------------------------------------------------------
 
 dat = read_excel("data/demographic_model_data.xlsx") %>% 
-  mutate(#attack_rate = attack_rate*.7,#sensitivity analysis to test reductions in attack rate 
-         #attack_lower=attack_lower*.7,
-         #attack_upper=attack_upper*.7,
-         `Chronic Condition`=outcome,
+  mutate(`Chronic Condition`=outcome,
          covid_ifr = covid_ifr/100,
          ifr_lower = ifr_lower/100,
          ifr_upper = ifr_upper/100,
@@ -167,3 +164,127 @@ plot2
 plot3 = plot_grid(plot1, plot2, ncol=2, labels="auto")
 plot3
 ggsave(plot=plot3, "competing risks figure.png",height=7,width=13)
+
+
+
+# Sensitivity Analysis 1 --------------------------------------------------
+#using attack rates for adults 50-64 
+dat_sens1 = read_excel("data/demographic_model_data.xlsx") %>% 
+  mutate(`Chronic Condition`=outcome,
+         covid_ifr = covid_ifr/100,
+         ifr_lower = ifr_lower/100,
+         ifr_upper = ifr_upper/100,
+         attack_rate = attack_rate_5064/100,
+         attack_lower=attack_lower_5064/100,
+         attack_upper=attack_upper_5064/100,
+         excess_null = (pop_at_risk*attack_rate*covid_ifr)/observed_deaths*100,
+         excess_null_lower = (pop_at_risk*attack_lower*ifr_lower)/observed_deaths*100,
+         excess_null_upper = (pop_at_risk*attack_upper*ifr_upper)/observed_deaths*100,
+         excess_OR2= (pop_at_risk*attack_rate*(covid_ifr*2))/observed_deaths*100,
+         excess_OR2_lower = (pop_at_risk*attack_lower*(ifr_lower*2))/observed_deaths*100,
+         excess_OR2_upper = (pop_at_risk*attack_upper*(ifr_upper*2))/observed_deaths*100,
+         excess_OR5= (pop_at_risk*attack_rate*(covid_ifr*5))/observed_deaths*100,
+         excess_OR5_lower = (pop_at_risk*attack_lower*(ifr_lower*5))/observed_deaths*100,
+         excess_OR5_upper = (pop_at_risk*attack_upper*(ifr_upper*5))/observed_deaths*100)
+
+
+
+demo_data_sens1 = dat_sens1 %>% 
+  mutate(outcome = factor(outcome,levels=c("All cancers","Pancreatic cancer","Lung cancer","Hematological cancer","Colorectal cancer",
+                                           "Breast cancer","Diabetes","Alzheimer's")),
+         observed_excess = paste0(round(observed)," (",round(observed_lower),"-",round(observed_upper),")"),
+         null = paste0(round(excess_null)," (",round(excess_null_lower),"-",round(excess_null_upper),")"),
+         OR2 = paste0(round(excess_OR2)," (",round(excess_OR2_lower),"-",round(excess_OR2_upper),")"),
+         OR5 = paste0(round(excess_OR5)," (",round(excess_OR5_lower),"-",round(excess_OR5_upper),")")) %>% 
+  select(`Chronic condition`=outcome,
+         `State`=state,
+         `Population at risk` = pop_at_risk,
+         `Mean age`=age_at_risk,
+         `Wave` = period,
+         `Observed deaths over same period in 2019`=observed_deaths,
+         `Observed excess in 2020` = observed_excess,
+         `Expected excess (null)`=null,
+         `Expected excess (OR=2)`=OR2,
+         `Expected excess (OR=5)`=OR5) %>% 
+  arrange(`Chronic condition`)
+
+#decrease attack rate by 20%
+dat_sens2 = read_excel("data/demographic_model_data.xlsx") %>% 
+  mutate(`Chronic Condition`=outcome,
+         covid_ifr = covid_ifr/100,
+         ifr_lower = ifr_lower/100,
+         ifr_upper = ifr_upper/100,
+         attack_rate = attack_rate*.8/100,
+         attack_lower=attack_lower*.8/100,
+         attack_upper=attack_upper*.8/100,
+         excess_null = (pop_at_risk*attack_rate*covid_ifr)/observed_deaths*100,
+         excess_null_lower = (pop_at_risk*attack_lower*ifr_lower)/observed_deaths*100,
+         excess_null_upper = (pop_at_risk*attack_upper*ifr_upper)/observed_deaths*100,
+         excess_OR2= (pop_at_risk*attack_rate*(covid_ifr*2))/observed_deaths*100,
+         excess_OR2_lower = (pop_at_risk*attack_lower*(ifr_lower*2))/observed_deaths*100,
+         excess_OR2_upper = (pop_at_risk*attack_upper*(ifr_upper*2))/observed_deaths*100,
+         excess_OR5= (pop_at_risk*attack_rate*(covid_ifr*5))/observed_deaths*100,
+         excess_OR5_lower = (pop_at_risk*attack_lower*(ifr_lower*5))/observed_deaths*100,
+         excess_OR5_upper = (pop_at_risk*attack_upper*(ifr_upper*5))/observed_deaths*100)
+
+
+
+demo_data_sens2 = dat_sens2 %>% 
+  mutate(outcome = factor(outcome,levels=c("All cancers","Pancreatic cancer","Lung cancer","Hematological cancer","Colorectal cancer",
+                                           "Breast cancer","Diabetes","Alzheimer's")),
+         observed_excess = paste0(round(observed)," (",round(observed_lower),"-",round(observed_upper),")"),
+         null = paste0(round(excess_null)," (",round(excess_null_lower),"-",round(excess_null_upper),")"),
+         OR2 = paste0(round(excess_OR2)," (",round(excess_OR2_lower),"-",round(excess_OR2_upper),")"),
+         OR5 = paste0(round(excess_OR5)," (",round(excess_OR5_lower),"-",round(excess_OR5_upper),")")) %>% 
+  select(`Chronic condition`=outcome,
+         `State`=state,
+         `Population at risk` = pop_at_risk,
+         `Mean age`=age_at_risk,
+         `Wave` = period,
+         `Observed deaths over same period in 2019`=observed_deaths,
+         `Observed excess in 2020` = observed_excess,
+         `Expected excess (null)`=null,
+         `Expected excess (OR=2)`=OR2,
+         `Expected excess (OR=5)`=OR5) %>% 
+  arrange(`Chronic condition`)
+
+
+#decrease attack rate by 30%
+dat_sens3 = read_excel("data/demographic_model_data.xlsx") %>% 
+  mutate(`Chronic Condition`=outcome,
+         covid_ifr = covid_ifr/100,
+         ifr_lower = ifr_lower/100,
+         ifr_upper = ifr_upper/100,
+         attack_rate = attack_rate*.7/100,
+         attack_lower=attack_lower*.7/100,
+         attack_upper=attack_upper*.7/100,
+         excess_null = (pop_at_risk*attack_rate*covid_ifr)/observed_deaths*100,
+         excess_null_lower = (pop_at_risk*attack_lower*ifr_lower)/observed_deaths*100,
+         excess_null_upper = (pop_at_risk*attack_upper*ifr_upper)/observed_deaths*100,
+         excess_OR2= (pop_at_risk*attack_rate*(covid_ifr*2))/observed_deaths*100,
+         excess_OR2_lower = (pop_at_risk*attack_lower*(ifr_lower*2))/observed_deaths*100,
+         excess_OR2_upper = (pop_at_risk*attack_upper*(ifr_upper*2))/observed_deaths*100,
+         excess_OR5= (pop_at_risk*attack_rate*(covid_ifr*5))/observed_deaths*100,
+         excess_OR5_lower = (pop_at_risk*attack_lower*(ifr_lower*5))/observed_deaths*100,
+         excess_OR5_upper = (pop_at_risk*attack_upper*(ifr_upper*5))/observed_deaths*100)
+
+demo_data_sens3 = dat_sens3 %>% 
+  mutate(outcome = factor(outcome,levels=c("All cancers","Pancreatic cancer","Lung cancer","Hematological cancer","Colorectal cancer",
+                                           "Breast cancer","Diabetes","Alzheimer's")),
+         observed_excess = paste0(round(observed)," (",round(observed_lower),"-",round(observed_upper),")"),
+         null = paste0(round(excess_null)," (",round(excess_null_lower),"-",round(excess_null_upper),")"),
+         OR2 = paste0(round(excess_OR2)," (",round(excess_OR2_lower),"-",round(excess_OR2_upper),")"),
+         OR5 = paste0(round(excess_OR5)," (",round(excess_OR5_lower),"-",round(excess_OR5_upper),")")) %>% 
+  select(`Chronic condition`=outcome,
+         `State`=state,
+         `Population at risk` = pop_at_risk,
+         `Mean age`=age_at_risk,
+         `Wave` = period,
+         `Observed deaths over same period in 2019`=observed_deaths,
+         `Observed excess in 2020` = observed_excess,
+         `Expected excess (null)`=null,
+         `Expected excess (OR=2)`=OR2,
+         `Expected excess (OR=5)`=OR5) %>% 
+  arrange(`Chronic condition`)
+
+
