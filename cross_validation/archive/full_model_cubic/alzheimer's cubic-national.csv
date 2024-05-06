@@ -1,0 +1,3 @@
+"","state","cod","Observed","Expected","Lower","Upper","Excess","Excess_lower","Excess_upper","Over_base","Over_lower","Over_upper"
+"1","National","alzheimer_mc_ma",136383,114671,106409.9,123236.1,21712,13146.9,29973.1,19,28,11
+"2","National","alzheimer_uc_ma",104556,96028,88736.725,103579.25,8528,976.75,15819.275,9,18,1
