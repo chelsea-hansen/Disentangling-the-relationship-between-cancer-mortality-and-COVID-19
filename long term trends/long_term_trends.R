@@ -208,8 +208,8 @@ new_dat = rbind(dat_nat4 %>% mutate(States="National"),dat_state4)%>%
                                "Alzheimer's (Underlying)","Alzheimer's (Multiple)")),
          States = factor(States,levels=c("National","New York","Texas","California")))
 
-post_2020 = new_dat %>% select(date,"state" =States, cod, deaths, deaths_smooth, "population_size"=Population)
-saveRDS(post_2020,"Data/post_2020_data.rds")
+#post_2020 = new_dat %>% select(date,"state" =States, cod, deaths, deaths_smooth, "population_size"=Population)
+#saveRDS(post_2020,"Data/post_2020_data.rds")
 
 plot_rates = ggplot()+
   theme_bw()+
