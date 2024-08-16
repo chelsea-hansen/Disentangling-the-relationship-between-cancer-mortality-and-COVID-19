@@ -12,27 +12,27 @@ library(grid)
 
 
 
-dat_national =  readRDS("weekly_mort_US.rds")%>% 
+dat_national =  readRDS("data/weekly_mort_US.rds")%>% 
   mutate_at(vars(covid19_uc:kidney_mc),
             list(ma = ~ zoo::rollapply(., 5, FUN=function(x) round(mean(x, na.rm=TRUE)),fill=NA))) %>% 
   drop_na()
  
 
-dat_ny =  readRDS("weekly_mort_states.rds")%>% 
+dat_ny =  readRDS("data/weekly_mort_states.rds")%>% 
   filter(staters=="NY") %>% 
   ungroup() %>% 
   mutate_at(vars(covid19_uc:kidney_mc),
             list(ma = ~ zoo::rollapply(., 5, FUN=function(x) round(mean(x, na.rm=TRUE)),fill=NA))) %>% 
   drop_na()
 
-dat_ca = readRDS("weekly_mort_states.rds")%>% 
+dat_ca = readRDS("data/weekly_mort_states.rds")%>% 
   filter(staters=="CA") %>% 
   ungroup() %>% 
   mutate_at(vars(covid19_uc:kidney_mc),
             list(ma = ~ zoo::rollapply(., 5, FUN=function(x) round(mean(x, na.rm=TRUE)),fill=NA))) %>% 
   drop_na()
 
-dat_tx = readRDS("weekly_mort_states.rds")%>% 
+dat_tx = readRDS("data/weekly_mort_states.rds")%>% 
   filter(staters=="TX") %>% 
   ungroup() %>% 
   mutate_at(vars(covid19_uc:kidney_mc),
@@ -251,7 +251,6 @@ for(c in 1:length(cause_uc)){
 
 # Plot AIC results  -------------------------------------------------------
 
-setwd("C:/Users/hansencl/OneDrive - National Institutes of Health/Documents/RProjects on github/cancer_and_covid/model_selection")
 
 
 cause2 = c("cancer_mc_ma","cancer_uc_ma","cancer_pancreas_mc_ma","cancer_pancreas_uc_ma",
@@ -267,7 +266,7 @@ format2 = c("Cancer (Multiple)","Cancer (Underlying)","Pancreatic (Multiple)","P
            "IHD (Multiple)","IHD (Underlying)","Kidney (Multiple)","Kidney (Underlying)")
 
 
-dat_aic = list.files(pattern=".csv")
+dat_aic = list.files(path=file.path(getwd(), "model_selection"),pattern=".csv")
 dat_aic = dat_aic[grepl("aic",dat_aic)]
 dat_aic <- sapply(dat_aic, read.csv, simplify=FALSE) %>% bind_rows() 
 dat_step=dat_aic
@@ -305,7 +304,7 @@ dat_step = dat_step %>% select(state, cod, cause,"final_model"=step2)
 write.csv(dat_step,"final model selection.csv")
 
 
-coverage = read.csv("C:/Users/hansencl/OneDrive - National Institutes of Health/Documents/RProjects on github/cancer_and_covid/cross_validation/coverage proportion - state.csv")%>% 
+coverage = read.csv("cross_validation/coverage proportion - state.csv")%>% 
   mutate(Coverage=round(prop,2)) %>% 
   select(cod, model,state, Coverage)
 
