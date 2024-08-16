@@ -13,7 +13,7 @@ library(grid)
 '%not_in%' = Negate('%in%')
 
 
-dat_national =  readRDS("weekly_mort_US.rds")%>% 
+dat_national =  readRDS("data/weekly_mort_US.rds")%>% 
   mutate_at(vars(covid19_uc:kidney_mc),
             list(ma = ~ zoo::rollapply(., 5, FUN=function(x) round(mean(x, na.rm=TRUE)),fill=NA))) %>% 
   drop_na() 
@@ -21,7 +21,7 @@ dat_national =  readRDS("weekly_mort_US.rds")%>%
  #dat_national2 =  readRDS("weekly_mort_US.rds")
 
 
-dat_ny =  readRDS("weekly_mort_states.rds")%>% 
+dat_ny =  readRDS("data/weekly_mort_states.rds")%>% 
   filter(staters=="NY") %>% 
   ungroup() %>% 
   mutate_at(vars(covid19_uc:kidney_mc),
@@ -33,7 +33,7 @@ dat_ny =  readRDS("weekly_mort_states.rds")%>%
   #filter(staters=="NY") 
 
 
-dat_ca = readRDS("weekly_mort_states.rds")%>% 
+dat_ca = readRDS("data/weekly_mort_states.rds")%>% 
   filter(staters=="CA") %>% 
   ungroup() %>% 
   mutate_at(vars(covid19_uc:kidney_mc),
@@ -44,7 +44,7 @@ dat_ca = readRDS("weekly_mort_states.rds")%>%
   #filter(staters=="CA") 
 
 
-dat_tx = readRDS("weekly_mort_states.rds")%>% 
+dat_tx = readRDS("data/weekly_mort_states.rds")%>% 
   filter(staters=="TX") %>% 
   ungroup() %>% 
   mutate_at(vars(covid19_uc:kidney_mc),

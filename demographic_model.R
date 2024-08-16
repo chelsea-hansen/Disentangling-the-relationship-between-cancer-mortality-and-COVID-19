@@ -136,34 +136,48 @@ dat = dat %>%
 
 plot1 = ggplot(data=dat)+
   theme_bw()+
-  geom_point(aes(x=log(baseline_risk), y=log(excess_null),color=outcome,shape=State),size=5)+
-  scale_color_brewer(name="Chronic condition",palette="Dark2")+
+  geom_point(aes(x=log(baseline_risk), y=log(excess_null),color=outcome,shape=State),size=10)+
+  scale_color_manual(name="Chronic Condition",values=c("royalblue4","steelblue2","paleturquoise2","darkcyan",
+                                                       "salmon3","peachpuff2","palevioletred","maroon4"))+
   geom_smooth(method = "lm", aes(x=log(baseline_risk),y=log(excess_null)))+
-  labs(x="Log(Baseline risk of death from chronic condition)",y="Log(Expected excess due to COVID-19, Null Hypothesis)")+
-  theme(axis.title = element_text(size=12),
-        axis.text = element_text(size=12),
-        legend.text = element_text(size=12))
-
-
+  labs(x="Log(Baseline risk of death from chronic condition)",y="Log(Expected excess due to COVID-19)", title= "Figure 5. Expected excess mortality vs. baseline risk of death")+
+  theme(axis.title = element_text(size=20),
+        axis.text = element_text(size=20),
+        legend.text = element_text(size=15),
+        legend.title = element_text(size=15),
+        title = element_text(size=25),
+       legend.direction="vertical",legend.box="vertical")
+plot1
+ggsave(plot=plot1, "poster figure 4a.png",height=7,width=16,units="in")
 dat2 = dat %>% 
   pivot_longer(cols=c(baseline_risk, covid_rate),names_to="cause",values_to="deaths")
 plot2 =ggplot(data=dat %>% filter(State=="National"))+
   theme_bw()+
 #  geom_bar(aes(y=outcome, x=deaths*10,group=cause,fill=cause),stat="identity",position="dodge")+
-  geom_point(aes(y=outcome, x=baseline_risk,color="Chronic condition itself"),size=8)+
-  geom_point(aes(y=outcome, x=covid_rate,color="COVID-19, Null Hypothesis"),size=8)+
+  geom_point(aes(y=outcome, x=baseline_risk,color="Chronic condition itself"),size=10)+
+  geom_point(aes(y=outcome, x=covid_rate,color="COVID-19"),size=8)+
   #scale_fill_manual(name=NULL,values=c("plum1"))+
-  scale_color_manual(name=NULL,values=c("plum3","darkcyan"))+
-  labs(y=NULL, x="Expected deaths per 100 persons at risk")+
-  theme(axis.title = element_text(size=12),
-        axis.text = element_text(size=12),
-        legend.text = element_text(size=12),
-        legend.position="bottom")
+  scale_color_manual(name=NULL,values=c("salmon3","royalblue4"))+
+  labs(y=NULL, title ="Figure 4. Expected deaths per 100 persons at risk", x=NULL)+
+  theme(axis.title = element_text(size=18),
+        axis.text = element_text(size=20),
+        legend.text = element_text(size=20),
+        title = element_text(size=25),
+        legend.position="bottom", legend.direction="horizontal"
+        )+
+  theme(
+    legend.position = c(.95, .95),
+    legend.justification = c("right", "top"),
+    legend.box.just = "right",
+    legend.margin = margin(6, 6, 6, 6)
+  )+
+  theme(legend.box.background  = element_rect(fill = "white", colour = "black"))
 plot2
+ggsave(plot=plot2, "competing risks figure4b.png",height=5.5,width=16,units="in")
+plot3 = plot_grid(plot1, plot2, ncol=2,rel_widths = c(.7,1))
 
-plot3 = plot_grid(plot1, plot2, ncol=2, labels="auto")
 plot3
-ggsave(plot=plot3, "competing risks figure.png",height=7,width=13)
+ggsave(plot=plot3, "competing risks figure.png",height=4,width=16,units="in")
 
 
 
