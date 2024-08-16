@@ -1,0 +1,34 @@
+"Notes"	"Yearly July 1st Estimates"	"Yearly July 1st Estimates Code"	"States"	"States Code"	Population
+	"2020"	"2020"	"California"	"06"	39501653
+	"2020"	"2020"	"New York"	"36"	20108296
+	"2020"	"2020"	"Texas"	"48"	29232474
+	"2021"	"2021"	"California"	"06"	39142991
+	"2021"	"2021"	"New York"	"36"	19857492
+	"2021"	"2021"	"Texas"	"48"	29558864
+	"2022"	"2022"	"California"	"06"	39029342
+	"2022"	"2022"	"New York"	"36"	19677151
+	"2022"	"2022"	"Texas"	"48"	30029572
+"---"
+"Dataset: Single-Race Population Estimates 2020-2022 by State and Single-Year Age"
+"Query Parameters:"
+"States: California (06); New York (36); Texas (48)"
+"Group By: Yearly July 1st Estimates; States"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/single-race.html for more information."
+"---"
+"Query Date: Mar 20, 2024 1:34:43 PM"
+"---"
+"Suggested Citation: Single-race Population Estimates, United States, 2020-2022. July 1st resident population by state, age, sex,"
+"single-race, and Hispanic origin, on CDC WONDER Online Database. The 2020-2022 postcensal series of estimates of the July 1"
+"resident population are based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, released by the Census Bureau on June 22, 2023. Accessed at"
+"http://wonder.cdc.gov/single-race-single-year-v2022.html on Mar 20, 2024 1:34:43 PM"
+"---"
+Footnotes:
+"1. Estimates for 2020-2022 are single-race Vintage 2022 postcensal estimates of the July 1 resident population, based on the"
+"modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, and released by"
+"the Census Bureau on June 22, 2023."
+"---"
+Caveats:

@@ -1,0 +1,1035 @@
+"Notes"	"MMWR Year"	"MMWR Year Code"	"MMWR Week"	"MMWR Week Code"	"MCD - ICD-10 113 Cause List"	"MCD - ICD-10 113 Cause List Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"2018 Week 01 ending January 06, 2018"	"2018/01"	"Malignant neoplasms (C00-C97)"	"GR113-019"	11485	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 01 ending January 06, 2018"	"2018/01"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5692	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 01 ending January 06, 2018"	"2018/01"	"Alzheimer disease (G30)"	"GR113-052"	3072	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 02 ending January 13, 2018"	"2018/02"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13923	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 02 ending January 13, 2018"	"2018/02"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6742	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 02 ending January 13, 2018"	"2018/02"	"Alzheimer disease (G30)"	"GR113-052"	3877	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 03 ending January 20, 2018"	"2018/03"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13254	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 03 ending January 20, 2018"	"2018/03"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6215	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 03 ending January 20, 2018"	"2018/03"	"Alzheimer disease (G30)"	"GR113-052"	3767	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 04 ending January 27, 2018"	"2018/04"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13219	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 04 ending January 27, 2018"	"2018/04"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5904	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 04 ending January 27, 2018"	"2018/04"	"Alzheimer disease (G30)"	"GR113-052"	3616	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 05 ending February 03, 2018"	"2018/05"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12950	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 05 ending February 03, 2018"	"2018/05"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5969	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 05 ending February 03, 2018"	"2018/05"	"Alzheimer disease (G30)"	"GR113-052"	3420	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 06 ending February 10, 2018"	"2018/06"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13328	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 06 ending February 10, 2018"	"2018/06"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6083	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 06 ending February 10, 2018"	"2018/06"	"Alzheimer disease (G30)"	"GR113-052"	3313	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 07 ending February 17, 2018"	"2018/07"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13052	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 07 ending February 17, 2018"	"2018/07"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5818	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 07 ending February 17, 2018"	"2018/07"	"Alzheimer disease (G30)"	"GR113-052"	3292	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 08 ending February 24, 2018"	"2018/08"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12779	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 08 ending February 24, 2018"	"2018/08"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5627	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 08 ending February 24, 2018"	"2018/08"	"Alzheimer disease (G30)"	"GR113-052"	3131	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 09 ending March 03, 2018"	"2018/09"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12673	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 09 ending March 03, 2018"	"2018/09"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5593	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 09 ending March 03, 2018"	"2018/09"	"Alzheimer disease (G30)"	"GR113-052"	2885	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 10 ending March 10, 2018"	"2018/10"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12894	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 10 ending March 10, 2018"	"2018/10"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5621	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 10 ending March 10, 2018"	"2018/10"	"Alzheimer disease (G30)"	"GR113-052"	2907	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 11 ending March 17, 2018"	"2018/11"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12654	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 11 ending March 17, 2018"	"2018/11"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5552	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 11 ending March 17, 2018"	"2018/11"	"Alzheimer disease (G30)"	"GR113-052"	2997	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 12 ending March 24, 2018"	"2018/12"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12713	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 12 ending March 24, 2018"	"2018/12"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5473	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 12 ending March 24, 2018"	"2018/12"	"Alzheimer disease (G30)"	"GR113-052"	2995	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 13 ending March 31, 2018"	"2018/13"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12412	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 13 ending March 31, 2018"	"2018/13"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5382	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 13 ending March 31, 2018"	"2018/13"	"Alzheimer disease (G30)"	"GR113-052"	2937	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 14 ending April 07, 2018"	"2018/14"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12629	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 14 ending April 07, 2018"	"2018/14"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5508	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 14 ending April 07, 2018"	"2018/14"	"Alzheimer disease (G30)"	"GR113-052"	2893	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 15 ending April 14, 2018"	"2018/15"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12718	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 15 ending April 14, 2018"	"2018/15"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5403	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 15 ending April 14, 2018"	"2018/15"	"Alzheimer disease (G30)"	"GR113-052"	2785	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 16 ending April 21, 2018"	"2018/16"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12454	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 16 ending April 21, 2018"	"2018/16"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5298	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 16 ending April 21, 2018"	"2018/16"	"Alzheimer disease (G30)"	"GR113-052"	2825	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 17 ending April 28, 2018"	"2018/17"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12663	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 17 ending April 28, 2018"	"2018/17"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5188	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 17 ending April 28, 2018"	"2018/17"	"Alzheimer disease (G30)"	"GR113-052"	2782	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 18 ending May 05, 2018"	"2018/18"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12718	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 18 ending May 05, 2018"	"2018/18"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5170	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 18 ending May 05, 2018"	"2018/18"	"Alzheimer disease (G30)"	"GR113-052"	2721	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 19 ending May 12, 2018"	"2018/19"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12246	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 19 ending May 12, 2018"	"2018/19"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5095	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 19 ending May 12, 2018"	"2018/19"	"Alzheimer disease (G30)"	"GR113-052"	2592	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 20 ending May 19, 2018"	"2018/20"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12232	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 20 ending May 19, 2018"	"2018/20"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4905	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 20 ending May 19, 2018"	"2018/20"	"Alzheimer disease (G30)"	"GR113-052"	2549	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 21 ending May 26, 2018"	"2018/21"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12450	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 21 ending May 26, 2018"	"2018/21"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4928	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 21 ending May 26, 2018"	"2018/21"	"Alzheimer disease (G30)"	"GR113-052"	2455	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 22 ending June 02, 2018"	"2018/22"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12221	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 22 ending June 02, 2018"	"2018/22"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4988	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 22 ending June 02, 2018"	"2018/22"	"Alzheimer disease (G30)"	"GR113-052"	2482	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 23 ending June 09, 2018"	"2018/23"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12477	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 23 ending June 09, 2018"	"2018/23"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4952	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 23 ending June 09, 2018"	"2018/23"	"Alzheimer disease (G30)"	"GR113-052"	2532	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 24 ending June 16, 2018"	"2018/24"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12358	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 24 ending June 16, 2018"	"2018/24"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4879	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 24 ending June 16, 2018"	"2018/24"	"Alzheimer disease (G30)"	"GR113-052"	2567	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 25 ending June 23, 2018"	"2018/25"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12460	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 25 ending June 23, 2018"	"2018/25"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4942	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 25 ending June 23, 2018"	"2018/25"	"Alzheimer disease (G30)"	"GR113-052"	2497	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 26 ending June 30, 2018"	"2018/26"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12356	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 26 ending June 30, 2018"	"2018/26"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4919	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 26 ending June 30, 2018"	"2018/26"	"Alzheimer disease (G30)"	"GR113-052"	2518	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 27 ending July 07, 2018"	"2018/27"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12512	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 27 ending July 07, 2018"	"2018/27"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5053	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 27 ending July 07, 2018"	"2018/27"	"Alzheimer disease (G30)"	"GR113-052"	2442	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 28 ending July 14, 2018"	"2018/28"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12277	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 28 ending July 14, 2018"	"2018/28"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4825	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 28 ending July 14, 2018"	"2018/28"	"Alzheimer disease (G30)"	"GR113-052"	2482	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 29 ending July 21, 2018"	"2018/29"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12287	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 29 ending July 21, 2018"	"2018/29"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4829	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 29 ending July 21, 2018"	"2018/29"	"Alzheimer disease (G30)"	"GR113-052"	2527	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 30 ending July 28, 2018"	"2018/30"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12467	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 30 ending July 28, 2018"	"2018/30"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4792	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 30 ending July 28, 2018"	"2018/30"	"Alzheimer disease (G30)"	"GR113-052"	2489	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 31 ending August 04, 2018"	"2018/31"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12433	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 31 ending August 04, 2018"	"2018/31"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4853	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 31 ending August 04, 2018"	"2018/31"	"Alzheimer disease (G30)"	"GR113-052"	2535	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 32 ending August 11, 2018"	"2018/32"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12566	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 32 ending August 11, 2018"	"2018/32"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4941	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 32 ending August 11, 2018"	"2018/32"	"Alzheimer disease (G30)"	"GR113-052"	2548	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 33 ending August 18, 2018"	"2018/33"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12362	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 33 ending August 18, 2018"	"2018/33"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4794	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 33 ending August 18, 2018"	"2018/33"	"Alzheimer disease (G30)"	"GR113-052"	2508	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 34 ending August 25, 2018"	"2018/34"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12672	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 34 ending August 25, 2018"	"2018/34"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4697	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 34 ending August 25, 2018"	"2018/34"	"Alzheimer disease (G30)"	"GR113-052"	2463	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 35 ending September 01, 2018"	"2018/35"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12481	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 35 ending September 01, 2018"	"2018/35"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4758	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 35 ending September 01, 2018"	"2018/35"	"Alzheimer disease (G30)"	"GR113-052"	2637	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 36 ending September 08, 2018"	"2018/36"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12338	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 36 ending September 08, 2018"	"2018/36"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4833	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 36 ending September 08, 2018"	"2018/36"	"Alzheimer disease (G30)"	"GR113-052"	2509	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 37 ending September 15, 2018"	"2018/37"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12568	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 37 ending September 15, 2018"	"2018/37"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4939	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 37 ending September 15, 2018"	"2018/37"	"Alzheimer disease (G30)"	"GR113-052"	2620	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 38 ending September 22, 2018"	"2018/38"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12816	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 38 ending September 22, 2018"	"2018/38"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4917	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 38 ending September 22, 2018"	"2018/38"	"Alzheimer disease (G30)"	"GR113-052"	2669	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 39 ending September 29, 2018"	"2018/39"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12529	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 39 ending September 29, 2018"	"2018/39"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4937	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 39 ending September 29, 2018"	"2018/39"	"Alzheimer disease (G30)"	"GR113-052"	2577	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 40 ending October 06, 2018"	"2018/40"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12802	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 40 ending October 06, 2018"	"2018/40"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4962	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 40 ending October 06, 2018"	"2018/40"	"Alzheimer disease (G30)"	"GR113-052"	2669	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 41 ending October 13, 2018"	"2018/41"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12742	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 41 ending October 13, 2018"	"2018/41"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4968	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 41 ending October 13, 2018"	"2018/41"	"Alzheimer disease (G30)"	"GR113-052"	2654	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 42 ending October 20, 2018"	"2018/42"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12855	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 42 ending October 20, 2018"	"2018/42"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5104	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 42 ending October 20, 2018"	"2018/42"	"Alzheimer disease (G30)"	"GR113-052"	2756	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 43 ending October 27, 2018"	"2018/43"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12963	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 43 ending October 27, 2018"	"2018/43"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5190	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 43 ending October 27, 2018"	"2018/43"	"Alzheimer disease (G30)"	"GR113-052"	2891	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 44 ending November 03, 2018"	"2018/44"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12859	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 44 ending November 03, 2018"	"2018/44"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5102	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 44 ending November 03, 2018"	"2018/44"	"Alzheimer disease (G30)"	"GR113-052"	2862	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 45 ending November 10, 2018"	"2018/45"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12867	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 45 ending November 10, 2018"	"2018/45"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5250	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 45 ending November 10, 2018"	"2018/45"	"Alzheimer disease (G30)"	"GR113-052"	2833	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 46 ending November 17, 2018"	"2018/46"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12930	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 46 ending November 17, 2018"	"2018/46"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5466	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 46 ending November 17, 2018"	"2018/46"	"Alzheimer disease (G30)"	"GR113-052"	2918	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 47 ending November 24, 2018"	"2018/47"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13018	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 47 ending November 24, 2018"	"2018/47"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5422	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 47 ending November 24, 2018"	"2018/47"	"Alzheimer disease (G30)"	"GR113-052"	3033	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 48 ending December 01, 2018"	"2018/48"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12634	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 48 ending December 01, 2018"	"2018/48"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5599	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 48 ending December 01, 2018"	"2018/48"	"Alzheimer disease (G30)"	"GR113-052"	2875	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 49 ending December 08, 2018"	"2018/49"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12982	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 49 ending December 08, 2018"	"2018/49"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5509	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 49 ending December 08, 2018"	"2018/49"	"Alzheimer disease (G30)"	"GR113-052"	2965	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 50 ending December 15, 2018"	"2018/50"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13160	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 50 ending December 15, 2018"	"2018/50"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5454	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 50 ending December 15, 2018"	"2018/50"	"Alzheimer disease (G30)"	"GR113-052"	3032	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 51 ending December 22, 2018"	"2018/51"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12957	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 51 ending December 22, 2018"	"2018/51"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5559	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 51 ending December 22, 2018"	"2018/51"	"Alzheimer disease (G30)"	"GR113-052"	3019	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 52 ending December 29, 2018"	"2018/52"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12625	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 52 ending December 29, 2018"	"2018/52"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5662	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 52 ending December 29, 2018"	"2018/52"	"Alzheimer disease (G30)"	"GR113-052"	2887	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week Not Available"	"2018/99"	"Diabetes mellitus (E10-E14)"	"GR113-046"	32	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 01 ending January 05, 2019"	"2019/01"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12967	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 01 ending January 05, 2019"	"2019/01"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5848	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 01 ending January 05, 2019"	"2019/01"	"Alzheimer disease (G30)"	"GR113-052"	2939	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 02 ending January 12, 2019"	"2019/02"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13212	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 02 ending January 12, 2019"	"2019/02"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5678	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 02 ending January 12, 2019"	"2019/02"	"Alzheimer disease (G30)"	"GR113-052"	2973	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 03 ending January 19, 2019"	"2019/03"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13189	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 03 ending January 19, 2019"	"2019/03"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5784	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 03 ending January 19, 2019"	"2019/03"	"Alzheimer disease (G30)"	"GR113-052"	3137	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 04 ending January 26, 2019"	"2019/04"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13058	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 04 ending January 26, 2019"	"2019/04"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5947	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 04 ending January 26, 2019"	"2019/04"	"Alzheimer disease (G30)"	"GR113-052"	2978	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 05 ending February 02, 2019"	"2019/05"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13022	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 05 ending February 02, 2019"	"2019/05"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5971	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 05 ending February 02, 2019"	"2019/05"	"Alzheimer disease (G30)"	"GR113-052"	3045	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 06 ending February 09, 2019"	"2019/06"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13005	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 06 ending February 09, 2019"	"2019/06"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5854	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 06 ending February 09, 2019"	"2019/06"	"Alzheimer disease (G30)"	"GR113-052"	3091	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 07 ending February 16, 2019"	"2019/07"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12955	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 07 ending February 16, 2019"	"2019/07"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6073	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 07 ending February 16, 2019"	"2019/07"	"Alzheimer disease (G30)"	"GR113-052"	3130	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 08 ending February 23, 2019"	"2019/08"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13103	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 08 ending February 23, 2019"	"2019/08"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5794	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 08 ending February 23, 2019"	"2019/08"	"Alzheimer disease (G30)"	"GR113-052"	3052	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 09 ending March 02, 2019"	"2019/09"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12880	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 09 ending March 02, 2019"	"2019/09"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6014	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 09 ending March 02, 2019"	"2019/09"	"Alzheimer disease (G30)"	"GR113-052"	2928	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 10 ending March 09, 2019"	"2019/10"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13212	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 10 ending March 09, 2019"	"2019/10"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5904	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 10 ending March 09, 2019"	"2019/10"	"Alzheimer disease (G30)"	"GR113-052"	2997	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 11 ending March 16, 2019"	"2019/11"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13012	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 11 ending March 16, 2019"	"2019/11"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5762	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 11 ending March 16, 2019"	"2019/11"	"Alzheimer disease (G30)"	"GR113-052"	2981	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 12 ending March 23, 2019"	"2019/12"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12773	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 12 ending March 23, 2019"	"2019/12"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5760	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 12 ending March 23, 2019"	"2019/12"	"Alzheimer disease (G30)"	"GR113-052"	2965	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 13 ending March 30, 2019"	"2019/13"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12720	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 13 ending March 30, 2019"	"2019/13"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5746	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 13 ending March 30, 2019"	"2019/13"	"Alzheimer disease (G30)"	"GR113-052"	2997	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 14 ending April 06, 2019"	"2019/14"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12749	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 14 ending April 06, 2019"	"2019/14"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5823	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 14 ending April 06, 2019"	"2019/14"	"Alzheimer disease (G30)"	"GR113-052"	3000	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 15 ending April 13, 2019"	"2019/15"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12556	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 15 ending April 13, 2019"	"2019/15"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5585	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 15 ending April 13, 2019"	"2019/15"	"Alzheimer disease (G30)"	"GR113-052"	2751	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 16 ending April 20, 2019"	"2019/16"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12517	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 16 ending April 20, 2019"	"2019/16"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5287	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 16 ending April 20, 2019"	"2019/16"	"Alzheimer disease (G30)"	"GR113-052"	2737	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 17 ending April 27, 2019"	"2019/17"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12427	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 17 ending April 27, 2019"	"2019/17"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5379	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 17 ending April 27, 2019"	"2019/17"	"Alzheimer disease (G30)"	"GR113-052"	2705	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 18 ending May 04, 2019"	"2019/18"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12512	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 18 ending May 04, 2019"	"2019/18"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5319	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 18 ending May 04, 2019"	"2019/18"	"Alzheimer disease (G30)"	"GR113-052"	2682	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 19 ending May 11, 2019"	"2019/19"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12558	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 19 ending May 11, 2019"	"2019/19"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5338	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 19 ending May 11, 2019"	"2019/19"	"Alzheimer disease (G30)"	"GR113-052"	2617	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 20 ending May 18, 2019"	"2019/20"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12741	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 20 ending May 18, 2019"	"2019/20"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5224	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 20 ending May 18, 2019"	"2019/20"	"Alzheimer disease (G30)"	"GR113-052"	2667	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 21 ending May 25, 2019"	"2019/21"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12880	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 21 ending May 25, 2019"	"2019/21"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5270	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 21 ending May 25, 2019"	"2019/21"	"Alzheimer disease (G30)"	"GR113-052"	2696	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 22 ending June 01, 2019"	"2019/22"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12517	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 22 ending June 01, 2019"	"2019/22"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5093	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 22 ending June 01, 2019"	"2019/22"	"Alzheimer disease (G30)"	"GR113-052"	2696	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 23 ending June 08, 2019"	"2019/23"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12448	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 23 ending June 08, 2019"	"2019/23"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5235	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 23 ending June 08, 2019"	"2019/23"	"Alzheimer disease (G30)"	"GR113-052"	2683	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 24 ending June 15, 2019"	"2019/24"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12637	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 24 ending June 15, 2019"	"2019/24"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5256	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 24 ending June 15, 2019"	"2019/24"	"Alzheimer disease (G30)"	"GR113-052"	2669	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 25 ending June 22, 2019"	"2019/25"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12483	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 25 ending June 22, 2019"	"2019/25"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5171	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 25 ending June 22, 2019"	"2019/25"	"Alzheimer disease (G30)"	"GR113-052"	2556	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 26 ending June 29, 2019"	"2019/26"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12669	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 26 ending June 29, 2019"	"2019/26"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5133	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 26 ending June 29, 2019"	"2019/26"	"Alzheimer disease (G30)"	"GR113-052"	2582	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 27 ending July 06, 2019"	"2019/27"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12280	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 27 ending July 06, 2019"	"2019/27"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5174	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 27 ending July 06, 2019"	"2019/27"	"Alzheimer disease (G30)"	"GR113-052"	2575	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 28 ending July 13, 2019"	"2019/28"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12527	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 28 ending July 13, 2019"	"2019/28"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4986	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 28 ending July 13, 2019"	"2019/28"	"Alzheimer disease (G30)"	"GR113-052"	2569	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 29 ending July 20, 2019"	"2019/29"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12503	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 29 ending July 20, 2019"	"2019/29"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5092	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 29 ending July 20, 2019"	"2019/29"	"Alzheimer disease (G30)"	"GR113-052"	2506	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 30 ending July 27, 2019"	"2019/30"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12527	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 30 ending July 27, 2019"	"2019/30"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4950	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 30 ending July 27, 2019"	"2019/30"	"Alzheimer disease (G30)"	"GR113-052"	2605	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 31 ending August 03, 2019"	"2019/31"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12534	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 31 ending August 03, 2019"	"2019/31"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5055	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 31 ending August 03, 2019"	"2019/31"	"Alzheimer disease (G30)"	"GR113-052"	2575	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 32 ending August 10, 2019"	"2019/32"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12493	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 32 ending August 10, 2019"	"2019/32"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5093	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 32 ending August 10, 2019"	"2019/32"	"Alzheimer disease (G30)"	"GR113-052"	2520	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 33 ending August 17, 2019"	"2019/33"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12479	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 33 ending August 17, 2019"	"2019/33"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4889	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 33 ending August 17, 2019"	"2019/33"	"Alzheimer disease (G30)"	"GR113-052"	2485	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 34 ending August 24, 2019"	"2019/34"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12532	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 34 ending August 24, 2019"	"2019/34"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4972	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 34 ending August 24, 2019"	"2019/34"	"Alzheimer disease (G30)"	"GR113-052"	2633	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 35 ending August 31, 2019"	"2019/35"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12617	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 35 ending August 31, 2019"	"2019/35"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4922	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 35 ending August 31, 2019"	"2019/35"	"Alzheimer disease (G30)"	"GR113-052"	2582	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 36 ending September 07, 2019"	"2019/36"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12528	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 36 ending September 07, 2019"	"2019/36"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4984	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 36 ending September 07, 2019"	"2019/36"	"Alzheimer disease (G30)"	"GR113-052"	2613	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 37 ending September 14, 2019"	"2019/37"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12611	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 37 ending September 14, 2019"	"2019/37"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5005	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 37 ending September 14, 2019"	"2019/37"	"Alzheimer disease (G30)"	"GR113-052"	2606	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 38 ending September 21, 2019"	"2019/38"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12437	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 38 ending September 21, 2019"	"2019/38"	"Diabetes mellitus (E10-E14)"	"GR113-046"	4984	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 38 ending September 21, 2019"	"2019/38"	"Alzheimer disease (G30)"	"GR113-052"	2619	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 39 ending September 28, 2019"	"2019/39"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12937	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 39 ending September 28, 2019"	"2019/39"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5199	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 39 ending September 28, 2019"	"2019/39"	"Alzheimer disease (G30)"	"GR113-052"	2611	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 40 ending October 05, 2019"	"2019/40"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12613	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 40 ending October 05, 2019"	"2019/40"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5027	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 40 ending October 05, 2019"	"2019/40"	"Alzheimer disease (G30)"	"GR113-052"	2796	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 41 ending October 12, 2019"	"2019/41"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12956	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 41 ending October 12, 2019"	"2019/41"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5036	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 41 ending October 12, 2019"	"2019/41"	"Alzheimer disease (G30)"	"GR113-052"	2753	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 42 ending October 19, 2019"	"2019/42"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12877	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 42 ending October 19, 2019"	"2019/42"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5354	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 42 ending October 19, 2019"	"2019/42"	"Alzheimer disease (G30)"	"GR113-052"	2804	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 43 ending October 26, 2019"	"2019/43"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12889	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 43 ending October 26, 2019"	"2019/43"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5381	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 43 ending October 26, 2019"	"2019/43"	"Alzheimer disease (G30)"	"GR113-052"	2872	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 44 ending November 02, 2019"	"2019/44"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12821	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 44 ending November 02, 2019"	"2019/44"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5290	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 44 ending November 02, 2019"	"2019/44"	"Alzheimer disease (G30)"	"GR113-052"	2831	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 45 ending November 09, 2019"	"2019/45"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13152	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 45 ending November 09, 2019"	"2019/45"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5477	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 45 ending November 09, 2019"	"2019/45"	"Alzheimer disease (G30)"	"GR113-052"	2946	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 46 ending November 16, 2019"	"2019/46"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12919	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 46 ending November 16, 2019"	"2019/46"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5603	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 46 ending November 16, 2019"	"2019/46"	"Alzheimer disease (G30)"	"GR113-052"	3016	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 47 ending November 23, 2019"	"2019/47"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12988	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 47 ending November 23, 2019"	"2019/47"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5528	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 47 ending November 23, 2019"	"2019/47"	"Alzheimer disease (G30)"	"GR113-052"	3002	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 48 ending November 30, 2019"	"2019/48"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12576	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 48 ending November 30, 2019"	"2019/48"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5433	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 48 ending November 30, 2019"	"2019/48"	"Alzheimer disease (G30)"	"GR113-052"	2987	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 49 ending December 07, 2019"	"2019/49"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12824	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 49 ending December 07, 2019"	"2019/49"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5790	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 49 ending December 07, 2019"	"2019/49"	"Alzheimer disease (G30)"	"GR113-052"	3102	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 50 ending December 14, 2019"	"2019/50"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12916	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 50 ending December 14, 2019"	"2019/50"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5741	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 50 ending December 14, 2019"	"2019/50"	"Alzheimer disease (G30)"	"GR113-052"	3181	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 51 ending December 21, 2019"	"2019/51"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12896	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 51 ending December 21, 2019"	"2019/51"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5664	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 51 ending December 21, 2019"	"2019/51"	"Alzheimer disease (G30)"	"GR113-052"	3088	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 52 ending December 28, 2019"	"2019/52"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12778	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 52 ending December 28, 2019"	"2019/52"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5976	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 52 ending December 28, 2019"	"2019/52"	"Alzheimer disease (G30)"	"GR113-052"	3090	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week Not Available"	"2019/99"	"Diabetes mellitus (E10-E14)"	"GR113-046"	20	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 01 ending January 04, 2020"	"2020/01"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12995	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 01 ending January 04, 2020"	"2020/01"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6092	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 01 ending January 04, 2020"	"2020/01"	"Alzheimer disease (G30)"	"GR113-052"	3055	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 02 ending January 11, 2020"	"2020/02"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13376	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 02 ending January 11, 2020"	"2020/02"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6265	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 02 ending January 11, 2020"	"2020/02"	"Alzheimer disease (G30)"	"GR113-052"	3099	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 03 ending January 18, 2020"	"2020/03"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13052	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 03 ending January 18, 2020"	"2020/03"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5839	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 03 ending January 18, 2020"	"2020/03"	"Alzheimer disease (G30)"	"GR113-052"	3031	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 04 ending January 25, 2020"	"2020/04"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13260	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 04 ending January 25, 2020"	"2020/04"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5955	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 04 ending January 25, 2020"	"2020/04"	"Alzheimer disease (G30)"	"GR113-052"	3046	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 05 ending February 01, 2020"	"2020/05"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13273	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 05 ending February 01, 2020"	"2020/05"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5874	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 05 ending February 01, 2020"	"2020/05"	"Alzheimer disease (G30)"	"GR113-052"	2989	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 06 ending February 08, 2020"	"2020/06"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13040	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 06 ending February 08, 2020"	"2020/06"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6198	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 06 ending February 08, 2020"	"2020/06"	"Alzheimer disease (G30)"	"GR113-052"	3052	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 07 ending February 15, 2020"	"2020/07"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13165	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 07 ending February 15, 2020"	"2020/07"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5918	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 07 ending February 15, 2020"	"2020/07"	"Alzheimer disease (G30)"	"GR113-052"	3043	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 08 ending February 22, 2020"	"2020/08"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13041	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 08 ending February 22, 2020"	"2020/08"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5940	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 08 ending February 22, 2020"	"2020/08"	"Alzheimer disease (G30)"	"GR113-052"	2999	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 09 ending February 29, 2020"	"2020/09"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13204	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 09 ending February 29, 2020"	"2020/09"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6055	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 09 ending February 29, 2020"	"2020/09"	"Alzheimer disease (G30)"	"GR113-052"	3048	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 10 ending March 07, 2020"	"2020/10"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13094	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 10 ending March 07, 2020"	"2020/10"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6134	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 10 ending March 07, 2020"	"2020/10"	"Alzheimer disease (G30)"	"GR113-052"	3088	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 11 ending March 14, 2020"	"2020/11"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12933	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 11 ending March 14, 2020"	"2020/11"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6031	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 11 ending March 14, 2020"	"2020/11"	"Alzheimer disease (G30)"	"GR113-052"	2967	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 12 ending March 21, 2020"	"2020/12"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13083	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 12 ending March 21, 2020"	"2020/12"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6173	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 12 ending March 21, 2020"	"2020/12"	"Alzheimer disease (G30)"	"GR113-052"	3008	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 13 ending March 28, 2020"	"2020/13"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13249	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 13 ending March 28, 2020"	"2020/13"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7031	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 13 ending March 28, 2020"	"2020/13"	"Alzheimer disease (G30)"	"GR113-052"	3371	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 14 ending April 04, 2020"	"2020/14"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13402	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 14 ending April 04, 2020"	"2020/14"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8618	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 14 ending April 04, 2020"	"2020/14"	"Alzheimer disease (G30)"	"GR113-052"	3629	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 15 ending April 11, 2020"	"2020/15"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13499	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 15 ending April 11, 2020"	"2020/15"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9826	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 15 ending April 11, 2020"	"2020/15"	"Alzheimer disease (G30)"	"GR113-052"	3851	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 16 ending April 18, 2020"	"2020/16"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13110	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 16 ending April 18, 2020"	"2020/16"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9341	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 16 ending April 18, 2020"	"2020/16"	"Alzheimer disease (G30)"	"GR113-052"	3966	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 17 ending April 25, 2020"	"2020/17"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13138	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 17 ending April 25, 2020"	"2020/17"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8777	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 17 ending April 25, 2020"	"2020/17"	"Alzheimer disease (G30)"	"GR113-052"	3890	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 18 ending May 02, 2020"	"2020/18"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12855	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 18 ending May 02, 2020"	"2020/18"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8087	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 18 ending May 02, 2020"	"2020/18"	"Alzheimer disease (G30)"	"GR113-052"	3725	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 19 ending May 09, 2020"	"2020/19"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12621	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 19 ending May 09, 2020"	"2020/19"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7854	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 19 ending May 09, 2020"	"2020/19"	"Alzheimer disease (G30)"	"GR113-052"	3366	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 20 ending May 16, 2020"	"2020/20"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12798	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 20 ending May 16, 2020"	"2020/20"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7568	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 20 ending May 16, 2020"	"2020/20"	"Alzheimer disease (G30)"	"GR113-052"	3298	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 21 ending May 23, 2020"	"2020/21"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12631	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 21 ending May 23, 2020"	"2020/21"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7019	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 21 ending May 23, 2020"	"2020/21"	"Alzheimer disease (G30)"	"GR113-052"	3154	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 22 ending May 30, 2020"	"2020/22"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12381	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 22 ending May 30, 2020"	"2020/22"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6804	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 22 ending May 30, 2020"	"2020/22"	"Alzheimer disease (G30)"	"GR113-052"	2968	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 23 ending June 06, 2020"	"2020/23"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12528	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 23 ending June 06, 2020"	"2020/23"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6554	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 23 ending June 06, 2020"	"2020/23"	"Alzheimer disease (G30)"	"GR113-052"	2944	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 24 ending June 13, 2020"	"2020/24"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12466	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 24 ending June 13, 2020"	"2020/24"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6487	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 24 ending June 13, 2020"	"2020/24"	"Alzheimer disease (G30)"	"GR113-052"	2939	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 25 ending June 20, 2020"	"2020/25"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12516	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 25 ending June 20, 2020"	"2020/25"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6466	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 25 ending June 20, 2020"	"2020/25"	"Alzheimer disease (G30)"	"GR113-052"	3034	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 26 ending June 27, 2020"	"2020/26"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12723	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 26 ending June 27, 2020"	"2020/26"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6615	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 26 ending June 27, 2020"	"2020/26"	"Alzheimer disease (G30)"	"GR113-052"	2910	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 27 ending July 04, 2020"	"2020/27"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12674	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 27 ending July 04, 2020"	"2020/27"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6825	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 27 ending July 04, 2020"	"2020/27"	"Alzheimer disease (G30)"	"GR113-052"	2987	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 28 ending July 11, 2020"	"2020/28"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12802	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 28 ending July 11, 2020"	"2020/28"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7374	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 28 ending July 11, 2020"	"2020/28"	"Alzheimer disease (G30)"	"GR113-052"	3120	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 29 ending July 18, 2020"	"2020/29"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12890	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 29 ending July 18, 2020"	"2020/29"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7435	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 29 ending July 18, 2020"	"2020/29"	"Alzheimer disease (G30)"	"GR113-052"	3205	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 30 ending July 25, 2020"	"2020/30"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13167	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 30 ending July 25, 2020"	"2020/30"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7860	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 30 ending July 25, 2020"	"2020/30"	"Alzheimer disease (G30)"	"GR113-052"	3284	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 31 ending August 01, 2020"	"2020/31"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13056	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 31 ending August 01, 2020"	"2020/31"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7940	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 31 ending August 01, 2020"	"2020/31"	"Alzheimer disease (G30)"	"GR113-052"	3293	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 32 ending August 08, 2020"	"2020/32"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13063	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 32 ending August 08, 2020"	"2020/32"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7709	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 32 ending August 08, 2020"	"2020/32"	"Alzheimer disease (G30)"	"GR113-052"	3203	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 33 ending August 15, 2020"	"2020/33"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13153	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 33 ending August 15, 2020"	"2020/33"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7525	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 33 ending August 15, 2020"	"2020/33"	"Alzheimer disease (G30)"	"GR113-052"	3258	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 34 ending August 22, 2020"	"2020/34"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12964	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 34 ending August 22, 2020"	"2020/34"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7062	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 34 ending August 22, 2020"	"2020/34"	"Alzheimer disease (G30)"	"GR113-052"	3274	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 35 ending August 29, 2020"	"2020/35"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12992	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 35 ending August 29, 2020"	"2020/35"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6935	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 35 ending August 29, 2020"	"2020/35"	"Alzheimer disease (G30)"	"GR113-052"	3116	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 36 ending September 05, 2020"	"2020/36"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12814	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 36 ending September 05, 2020"	"2020/36"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6779	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 36 ending September 05, 2020"	"2020/36"	"Alzheimer disease (G30)"	"GR113-052"	3152	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 37 ending September 12, 2020"	"2020/37"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12916	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 37 ending September 12, 2020"	"2020/37"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6681	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 37 ending September 12, 2020"	"2020/37"	"Alzheimer disease (G30)"	"GR113-052"	2983	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 38 ending September 19, 2020"	"2020/38"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13049	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 38 ending September 19, 2020"	"2020/38"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6564	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 38 ending September 19, 2020"	"2020/38"	"Alzheimer disease (G30)"	"GR113-052"	2987	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 39 ending September 26, 2020"	"2020/39"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13366	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 39 ending September 26, 2020"	"2020/39"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6760	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 39 ending September 26, 2020"	"2020/39"	"Alzheimer disease (G30)"	"GR113-052"	3105	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 40 ending October 03, 2020"	"2020/40"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12826	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 40 ending October 03, 2020"	"2020/40"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6642	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 40 ending October 03, 2020"	"2020/40"	"Alzheimer disease (G30)"	"GR113-052"	3043	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 41 ending October 10, 2020"	"2020/41"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13320	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 41 ending October 10, 2020"	"2020/41"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7039	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 41 ending October 10, 2020"	"2020/41"	"Alzheimer disease (G30)"	"GR113-052"	3203	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 42 ending October 17, 2020"	"2020/42"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12836	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 42 ending October 17, 2020"	"2020/42"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6822	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 42 ending October 17, 2020"	"2020/42"	"Alzheimer disease (G30)"	"GR113-052"	3225	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 43 ending October 24, 2020"	"2020/43"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13272	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 43 ending October 24, 2020"	"2020/43"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7119	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 43 ending October 24, 2020"	"2020/43"	"Alzheimer disease (G30)"	"GR113-052"	3365	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 44 ending October 31, 2020"	"2020/44"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13144	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 44 ending October 31, 2020"	"2020/44"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7281	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 44 ending October 31, 2020"	"2020/44"	"Alzheimer disease (G30)"	"GR113-052"	3278	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 45 ending November 07, 2020"	"2020/45"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13541	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 45 ending November 07, 2020"	"2020/45"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7803	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 45 ending November 07, 2020"	"2020/45"	"Alzheimer disease (G30)"	"GR113-052"	3568	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 46 ending November 14, 2020"	"2020/46"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13534	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 46 ending November 14, 2020"	"2020/46"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8234	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 46 ending November 14, 2020"	"2020/46"	"Alzheimer disease (G30)"	"GR113-052"	3685	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 47 ending November 21, 2020"	"2020/47"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13487	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 47 ending November 21, 2020"	"2020/47"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8754	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 47 ending November 21, 2020"	"2020/47"	"Alzheimer disease (G30)"	"GR113-052"	3612	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 48 ending November 28, 2020"	"2020/48"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13372	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 48 ending November 28, 2020"	"2020/48"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9032	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 48 ending November 28, 2020"	"2020/48"	"Alzheimer disease (G30)"	"GR113-052"	3899	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 49 ending December 05, 2020"	"2020/49"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13465	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 49 ending December 05, 2020"	"2020/49"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9603	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 49 ending December 05, 2020"	"2020/49"	"Alzheimer disease (G30)"	"GR113-052"	4078	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 50 ending December 12, 2020"	"2020/50"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14082	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 50 ending December 12, 2020"	"2020/50"	"Diabetes mellitus (E10-E14)"	"GR113-046"	10290	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 50 ending December 12, 2020"	"2020/50"	"Alzheimer disease (G30)"	"GR113-052"	4287	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 51 ending December 19, 2020"	"2020/51"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13935	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 51 ending December 19, 2020"	"2020/51"	"Diabetes mellitus (E10-E14)"	"GR113-046"	10367	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 51 ending December 19, 2020"	"2020/51"	"Alzheimer disease (G30)"	"GR113-052"	4369	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 52 ending December 26, 2020"	"2020/52"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14068	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 52 ending December 26, 2020"	"2020/52"	"Diabetes mellitus (E10-E14)"	"GR113-046"	10744	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 52 ending December 26, 2020"	"2020/52"	"Alzheimer disease (G30)"	"GR113-052"	4283	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 53 ending January 02, 2021"	"2020/53"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14090	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 53 ending January 02, 2021"	"2020/53"	"Diabetes mellitus (E10-E14)"	"GR113-046"	11048	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 53 ending January 02, 2021"	"2020/53"	"Alzheimer disease (G30)"	"GR113-052"	4409	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week Not Available"	"2020/99"	"Diabetes mellitus (E10-E14)"	"GR113-046"	34	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 01 ending January 09, 2021"	"2021/01"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13679	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 01 ending January 09, 2021"	"2021/01"	"Diabetes mellitus (E10-E14)"	"GR113-046"	11174	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 01 ending January 09, 2021"	"2021/01"	"Alzheimer disease (G30)"	"GR113-052"	4257	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 02 ending January 16, 2021"	"2021/02"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14284	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 02 ending January 16, 2021"	"2021/02"	"Diabetes mellitus (E10-E14)"	"GR113-046"	11194	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 02 ending January 16, 2021"	"2021/02"	"Alzheimer disease (G30)"	"GR113-052"	4237	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 03 ending January 23, 2021"	"2021/03"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13904	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 03 ending January 23, 2021"	"2021/03"	"Diabetes mellitus (E10-E14)"	"GR113-046"	10419	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 03 ending January 23, 2021"	"2021/03"	"Alzheimer disease (G30)"	"GR113-052"	4087	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 04 ending January 30, 2021"	"2021/04"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13787	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 04 ending January 30, 2021"	"2021/04"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9874	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 04 ending January 30, 2021"	"2021/04"	"Alzheimer disease (G30)"	"GR113-052"	3656	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 05 ending February 06, 2021"	"2021/05"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13655	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 05 ending February 06, 2021"	"2021/05"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9259	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 05 ending February 06, 2021"	"2021/05"	"Alzheimer disease (G30)"	"GR113-052"	3527	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 06 ending February 13, 2021"	"2021/06"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13357	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 06 ending February 13, 2021"	"2021/06"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8564	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 06 ending February 13, 2021"	"2021/06"	"Alzheimer disease (G30)"	"GR113-052"	3172	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 07 ending February 20, 2021"	"2021/07"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13215	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 07 ending February 20, 2021"	"2021/07"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8740	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 07 ending February 20, 2021"	"2021/07"	"Alzheimer disease (G30)"	"GR113-052"	3205	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 08 ending February 27, 2021"	"2021/08"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13385	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 08 ending February 27, 2021"	"2021/08"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7832	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 08 ending February 27, 2021"	"2021/08"	"Alzheimer disease (G30)"	"GR113-052"	3121	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 09 ending March 06, 2021"	"2021/09"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13008	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 09 ending March 06, 2021"	"2021/09"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7480	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 09 ending March 06, 2021"	"2021/09"	"Alzheimer disease (G30)"	"GR113-052"	2861	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 10 ending March 13, 2021"	"2021/10"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12952	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 10 ending March 13, 2021"	"2021/10"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7200	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 10 ending March 13, 2021"	"2021/10"	"Alzheimer disease (G30)"	"GR113-052"	2794	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 11 ending March 20, 2021"	"2021/11"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12760	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 11 ending March 20, 2021"	"2021/11"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6894	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 11 ending March 20, 2021"	"2021/11"	"Alzheimer disease (G30)"	"GR113-052"	2727	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 12 ending March 27, 2021"	"2021/12"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12875	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 12 ending March 27, 2021"	"2021/12"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7083	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 12 ending March 27, 2021"	"2021/12"	"Alzheimer disease (G30)"	"GR113-052"	2754	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 13 ending April 03, 2021"	"2021/13"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12569	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 13 ending April 03, 2021"	"2021/13"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6700	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 13 ending April 03, 2021"	"2021/13"	"Alzheimer disease (G30)"	"GR113-052"	2545	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 14 ending April 10, 2021"	"2021/14"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13034	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 14 ending April 10, 2021"	"2021/14"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6874	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 14 ending April 10, 2021"	"2021/14"	"Alzheimer disease (G30)"	"GR113-052"	2686	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 15 ending April 17, 2021"	"2021/15"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12903	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 15 ending April 17, 2021"	"2021/15"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6766	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 15 ending April 17, 2021"	"2021/15"	"Alzheimer disease (G30)"	"GR113-052"	2457	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 16 ending April 24, 2021"	"2021/16"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13101	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 16 ending April 24, 2021"	"2021/16"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6927	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 16 ending April 24, 2021"	"2021/16"	"Alzheimer disease (G30)"	"GR113-052"	2526	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 17 ending May 01, 2021"	"2021/17"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13091	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 17 ending May 01, 2021"	"2021/17"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6772	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 17 ending May 01, 2021"	"2021/17"	"Alzheimer disease (G30)"	"GR113-052"	2622	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 18 ending May 08, 2021"	"2021/18"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12738	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 18 ending May 08, 2021"	"2021/18"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6640	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 18 ending May 08, 2021"	"2021/18"	"Alzheimer disease (G30)"	"GR113-052"	2585	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 19 ending May 15, 2021"	"2021/19"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13039	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 19 ending May 15, 2021"	"2021/19"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6671	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 19 ending May 15, 2021"	"2021/19"	"Alzheimer disease (G30)"	"GR113-052"	2511	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 20 ending May 22, 2021"	"2021/20"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13020	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 20 ending May 22, 2021"	"2021/20"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6348	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 20 ending May 22, 2021"	"2021/20"	"Alzheimer disease (G30)"	"GR113-052"	2626	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 21 ending May 29, 2021"	"2021/21"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12645	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 21 ending May 29, 2021"	"2021/21"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6360	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 21 ending May 29, 2021"	"2021/21"	"Alzheimer disease (G30)"	"GR113-052"	2470	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 22 ending June 05, 2021"	"2021/22"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12872	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 22 ending June 05, 2021"	"2021/22"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6212	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 22 ending June 05, 2021"	"2021/22"	"Alzheimer disease (G30)"	"GR113-052"	2505	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 23 ending June 12, 2021"	"2021/23"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12702	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 23 ending June 12, 2021"	"2021/23"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6262	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 23 ending June 12, 2021"	"2021/23"	"Alzheimer disease (G30)"	"GR113-052"	2588	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 24 ending June 19, 2021"	"2021/24"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12864	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 24 ending June 19, 2021"	"2021/24"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6239	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 24 ending June 19, 2021"	"2021/24"	"Alzheimer disease (G30)"	"GR113-052"	2517	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 25 ending June 26, 2021"	"2021/25"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12920	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 25 ending June 26, 2021"	"2021/25"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6254	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 25 ending June 26, 2021"	"2021/25"	"Alzheimer disease (G30)"	"GR113-052"	2405	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 26 ending July 03, 2021"	"2021/26"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12936	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 26 ending July 03, 2021"	"2021/26"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6374	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 26 ending July 03, 2021"	"2021/26"	"Alzheimer disease (G30)"	"GR113-052"	2500	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 27 ending July 10, 2021"	"2021/27"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12887	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 27 ending July 10, 2021"	"2021/27"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6174	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 27 ending July 10, 2021"	"2021/27"	"Alzheimer disease (G30)"	"GR113-052"	2406	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 28 ending July 17, 2021"	"2021/28"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12935	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 28 ending July 17, 2021"	"2021/28"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6256	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 28 ending July 17, 2021"	"2021/28"	"Alzheimer disease (G30)"	"GR113-052"	2511	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 29 ending July 24, 2021"	"2021/29"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12915	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 29 ending July 24, 2021"	"2021/29"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6275	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 29 ending July 24, 2021"	"2021/29"	"Alzheimer disease (G30)"	"GR113-052"	2514	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 30 ending July 31, 2021"	"2021/30"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13123	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 30 ending July 31, 2021"	"2021/30"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6540	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 30 ending July 31, 2021"	"2021/30"	"Alzheimer disease (G30)"	"GR113-052"	2643	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 31 ending August 07, 2021"	"2021/31"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13379	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 31 ending August 07, 2021"	"2021/31"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7009	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 31 ending August 07, 2021"	"2021/31"	"Alzheimer disease (G30)"	"GR113-052"	2651	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 32 ending August 14, 2021"	"2021/32"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13664	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 32 ending August 14, 2021"	"2021/32"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7606	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 32 ending August 14, 2021"	"2021/32"	"Alzheimer disease (G30)"	"GR113-052"	2676	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 33 ending August 21, 2021"	"2021/33"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13630	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 33 ending August 21, 2021"	"2021/33"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7815	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 33 ending August 21, 2021"	"2021/33"	"Alzheimer disease (G30)"	"GR113-052"	2789	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 34 ending August 28, 2021"	"2021/34"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13559	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 34 ending August 28, 2021"	"2021/34"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8452	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 34 ending August 28, 2021"	"2021/34"	"Alzheimer disease (G30)"	"GR113-052"	2861	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 35 ending September 04, 2021"	"2021/35"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13581	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 35 ending September 04, 2021"	"2021/35"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8544	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 35 ending September 04, 2021"	"2021/35"	"Alzheimer disease (G30)"	"GR113-052"	2935	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 36 ending September 11, 2021"	"2021/36"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13352	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 36 ending September 11, 2021"	"2021/36"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8581	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 36 ending September 11, 2021"	"2021/36"	"Alzheimer disease (G30)"	"GR113-052"	2867	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 37 ending September 18, 2021"	"2021/37"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13731	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 37 ending September 18, 2021"	"2021/37"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8470	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 37 ending September 18, 2021"	"2021/37"	"Alzheimer disease (G30)"	"GR113-052"	2943	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 38 ending September 25, 2021"	"2021/38"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13533	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 38 ending September 25, 2021"	"2021/38"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8338	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 38 ending September 25, 2021"	"2021/38"	"Alzheimer disease (G30)"	"GR113-052"	2936	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 39 ending October 02, 2021"	"2021/39"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13681	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 39 ending October 02, 2021"	"2021/39"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8003	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 39 ending October 02, 2021"	"2021/39"	"Alzheimer disease (G30)"	"GR113-052"	2883	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 40 ending October 09, 2021"	"2021/40"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13454	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 40 ending October 09, 2021"	"2021/40"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7835	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 40 ending October 09, 2021"	"2021/40"	"Alzheimer disease (G30)"	"GR113-052"	2816	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 41 ending October 16, 2021"	"2021/41"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13387	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 41 ending October 16, 2021"	"2021/41"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7608	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 41 ending October 16, 2021"	"2021/41"	"Alzheimer disease (G30)"	"GR113-052"	2749	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 42 ending October 23, 2021"	"2021/42"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13531	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 42 ending October 23, 2021"	"2021/42"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7582	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 42 ending October 23, 2021"	"2021/42"	"Alzheimer disease (G30)"	"GR113-052"	2890	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 43 ending October 30, 2021"	"2021/43"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13465	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 43 ending October 30, 2021"	"2021/43"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7540	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 43 ending October 30, 2021"	"2021/43"	"Alzheimer disease (G30)"	"GR113-052"	2850	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 44 ending November 06, 2021"	"2021/44"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13427	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 44 ending November 06, 2021"	"2021/44"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7484	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 44 ending November 06, 2021"	"2021/44"	"Alzheimer disease (G30)"	"GR113-052"	2891	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 45 ending November 13, 2021"	"2021/45"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13618	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 45 ending November 13, 2021"	"2021/45"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7634	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 45 ending November 13, 2021"	"2021/45"	"Alzheimer disease (G30)"	"GR113-052"	3049	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 46 ending November 20, 2021"	"2021/46"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13440	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 46 ending November 20, 2021"	"2021/46"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7510	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 46 ending November 20, 2021"	"2021/46"	"Alzheimer disease (G30)"	"GR113-052"	3011	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 47 ending November 27, 2021"	"2021/47"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13496	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 47 ending November 27, 2021"	"2021/47"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7813	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 47 ending November 27, 2021"	"2021/47"	"Alzheimer disease (G30)"	"GR113-052"	3054	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 48 ending December 04, 2021"	"2021/48"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13781	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 48 ending December 04, 2021"	"2021/48"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8020	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 48 ending December 04, 2021"	"2021/48"	"Alzheimer disease (G30)"	"GR113-052"	3017	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 49 ending December 11, 2021"	"2021/49"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13911	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 49 ending December 11, 2021"	"2021/49"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8206	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 49 ending December 11, 2021"	"2021/49"	"Alzheimer disease (G30)"	"GR113-052"	3003	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 50 ending December 18, 2021"	"2021/50"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13498	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 50 ending December 18, 2021"	"2021/50"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8202	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 50 ending December 18, 2021"	"2021/50"	"Alzheimer disease (G30)"	"GR113-052"	3076	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 51 ending December 25, 2021"	"2021/51"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13702	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 51 ending December 25, 2021"	"2021/51"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8187	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 51 ending December 25, 2021"	"2021/51"	"Alzheimer disease (G30)"	"GR113-052"	3149	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 52 ending January 01, 2022"	"2021/52"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13677	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 52 ending January 01, 2022"	"2021/52"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8692	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 52 ending January 01, 2022"	"2021/52"	"Alzheimer disease (G30)"	"GR113-052"	3135	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week Not Available"	"2021/99"	"Diabetes mellitus (E10-E14)"	"GR113-046"	35	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 01 ending January 08, 2022 (provisional)"	"2022/01"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14303	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 01 ending January 08, 2022 (provisional)"	"2022/01"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9572	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 01 ending January 08, 2022 (provisional)"	"2022/01"	"Alzheimer disease (G30)"	"GR113-052"	3359	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 02 ending January 15, 2022 (provisional)"	"2022/02"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14867	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 02 ending January 15, 2022 (provisional)"	"2022/02"	"Diabetes mellitus (E10-E14)"	"GR113-046"	10381	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 02 ending January 15, 2022 (provisional)"	"2022/02"	"Alzheimer disease (G30)"	"GR113-052"	3860	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 03 ending January 22, 2022 (provisional)"	"2022/03"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14674	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 03 ending January 22, 2022 (provisional)"	"2022/03"	"Diabetes mellitus (E10-E14)"	"GR113-046"	10510	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 03 ending January 22, 2022 (provisional)"	"2022/03"	"Alzheimer disease (G30)"	"GR113-052"	3929	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 04 ending January 29, 2022 (provisional)"	"2022/04"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14636	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 04 ending January 29, 2022 (provisional)"	"2022/04"	"Diabetes mellitus (E10-E14)"	"GR113-046"	10330	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 04 ending January 29, 2022 (provisional)"	"2022/04"	"Alzheimer disease (G30)"	"GR113-052"	3922	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 05 ending February 05, 2022 (provisional)"	"2022/05"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14292	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 05 ending February 05, 2022 (provisional)"	"2022/05"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9758	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 05 ending February 05, 2022 (provisional)"	"2022/05"	"Alzheimer disease (G30)"	"GR113-052"	3801	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 06 ending February 12, 2022 (provisional)"	"2022/06"	"Malignant neoplasms (C00-C97)"	"GR113-019"	14277	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 06 ending February 12, 2022 (provisional)"	"2022/06"	"Diabetes mellitus (E10-E14)"	"GR113-046"	9151	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 06 ending February 12, 2022 (provisional)"	"2022/06"	"Alzheimer disease (G30)"	"GR113-052"	3539	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 07 ending February 19, 2022 (provisional)"	"2022/07"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13814	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 07 ending February 19, 2022 (provisional)"	"2022/07"	"Diabetes mellitus (E10-E14)"	"GR113-046"	8258	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 07 ending February 19, 2022 (provisional)"	"2022/07"	"Alzheimer disease (G30)"	"GR113-052"	3239	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 08 ending February 26, 2022 (provisional)"	"2022/08"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13123	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 08 ending February 26, 2022 (provisional)"	"2022/08"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7535	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 08 ending February 26, 2022 (provisional)"	"2022/08"	"Alzheimer disease (G30)"	"GR113-052"	3077	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 09 ending March 05, 2022 (provisional)"	"2022/09"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13291	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 09 ending March 05, 2022 (provisional)"	"2022/09"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7420	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 09 ending March 05, 2022 (provisional)"	"2022/09"	"Alzheimer disease (G30)"	"GR113-052"	2866	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 10 ending March 12, 2022 (provisional)"	"2022/10"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13241	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 10 ending March 12, 2022 (provisional)"	"2022/10"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7129	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 10 ending March 12, 2022 (provisional)"	"2022/10"	"Alzheimer disease (G30)"	"GR113-052"	2708	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 11 ending March 19, 2022 (provisional)"	"2022/11"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13217	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 11 ending March 19, 2022 (provisional)"	"2022/11"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6932	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 11 ending March 19, 2022 (provisional)"	"2022/11"	"Alzheimer disease (G30)"	"GR113-052"	2639	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 12 ending March 26, 2022 (provisional)"	"2022/12"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12980	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 12 ending March 26, 2022 (provisional)"	"2022/12"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6762	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 12 ending March 26, 2022 (provisional)"	"2022/12"	"Alzheimer disease (G30)"	"GR113-052"	2638	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 13 ending April 02, 2022 (provisional)"	"2022/13"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13065	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 13 ending April 02, 2022 (provisional)"	"2022/13"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6416	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 13 ending April 02, 2022 (provisional)"	"2022/13"	"Alzheimer disease (G30)"	"GR113-052"	2538	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 14 ending April 09, 2022 (provisional)"	"2022/14"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12921	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 14 ending April 09, 2022 (provisional)"	"2022/14"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6609	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 14 ending April 09, 2022 (provisional)"	"2022/14"	"Alzheimer disease (G30)"	"GR113-052"	2598	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 15 ending April 16, 2022 (provisional)"	"2022/15"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12971	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 15 ending April 16, 2022 (provisional)"	"2022/15"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6525	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 15 ending April 16, 2022 (provisional)"	"2022/15"	"Alzheimer disease (G30)"	"GR113-052"	2665	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 16 ending April 23, 2022 (provisional)"	"2022/16"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12722	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 16 ending April 23, 2022 (provisional)"	"2022/16"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6428	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 16 ending April 23, 2022 (provisional)"	"2022/16"	"Alzheimer disease (G30)"	"GR113-052"	2512	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 17 ending April 30, 2022 (provisional)"	"2022/17"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12901	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 17 ending April 30, 2022 (provisional)"	"2022/17"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6465	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 17 ending April 30, 2022 (provisional)"	"2022/17"	"Alzheimer disease (G30)"	"GR113-052"	2595	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 18 ending May 07, 2022 (provisional)"	"2022/18"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12831	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 18 ending May 07, 2022 (provisional)"	"2022/18"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6335	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 18 ending May 07, 2022 (provisional)"	"2022/18"	"Alzheimer disease (G30)"	"GR113-052"	2635	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 19 ending May 14, 2022 (provisional)"	"2022/19"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13163	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 19 ending May 14, 2022 (provisional)"	"2022/19"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6460	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 19 ending May 14, 2022 (provisional)"	"2022/19"	"Alzheimer disease (G30)"	"GR113-052"	2576	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 20 ending May 21, 2022 (provisional)"	"2022/20"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13170	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 20 ending May 21, 2022 (provisional)"	"2022/20"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6291	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 20 ending May 21, 2022 (provisional)"	"2022/20"	"Alzheimer disease (G30)"	"GR113-052"	2592	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 21 ending May 28, 2022 (provisional)"	"2022/21"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12858	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 21 ending May 28, 2022 (provisional)"	"2022/21"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6290	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 21 ending May 28, 2022 (provisional)"	"2022/21"	"Alzheimer disease (G30)"	"GR113-052"	2637	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 22 ending June 04, 2022 (provisional)"	"2022/22"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12915	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 22 ending June 04, 2022 (provisional)"	"2022/22"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6266	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 22 ending June 04, 2022 (provisional)"	"2022/22"	"Alzheimer disease (G30)"	"GR113-052"	2621	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 23 ending June 11, 2022 (provisional)"	"2022/23"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13188	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 23 ending June 11, 2022 (provisional)"	"2022/23"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6429	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 23 ending June 11, 2022 (provisional)"	"2022/23"	"Alzheimer disease (G30)"	"GR113-052"	2730	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 24 ending June 18, 2022 (provisional)"	"2022/24"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12730	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 24 ending June 18, 2022 (provisional)"	"2022/24"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6406	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 24 ending June 18, 2022 (provisional)"	"2022/24"	"Alzheimer disease (G30)"	"GR113-052"	2588	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 25 ending June 25, 2022 (provisional)"	"2022/25"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13055	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 25 ending June 25, 2022 (provisional)"	"2022/25"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6376	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 25 ending June 25, 2022 (provisional)"	"2022/25"	"Alzheimer disease (G30)"	"GR113-052"	2575	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 26 ending July 02, 2022 (provisional)"	"2022/26"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13157	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 26 ending July 02, 2022 (provisional)"	"2022/26"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6434	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 26 ending July 02, 2022 (provisional)"	"2022/26"	"Alzheimer disease (G30)"	"GR113-052"	2641	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 27 ending July 09, 2022 (provisional)"	"2022/27"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12938	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 27 ending July 09, 2022 (provisional)"	"2022/27"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6311	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 27 ending July 09, 2022 (provisional)"	"2022/27"	"Alzheimer disease (G30)"	"GR113-052"	2636	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 28 ending July 16, 2022 (provisional)"	"2022/28"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13058	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 28 ending July 16, 2022 (provisional)"	"2022/28"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6304	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 28 ending July 16, 2022 (provisional)"	"2022/28"	"Alzheimer disease (G30)"	"GR113-052"	2591	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 29 ending July 23, 2022 (provisional)"	"2022/29"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13356	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 29 ending July 23, 2022 (provisional)"	"2022/29"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6521	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 29 ending July 23, 2022 (provisional)"	"2022/29"	"Alzheimer disease (G30)"	"GR113-052"	2754	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 30 ending July 30, 2022 (provisional)"	"2022/30"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13144	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 30 ending July 30, 2022 (provisional)"	"2022/30"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6403	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 30 ending July 30, 2022 (provisional)"	"2022/30"	"Alzheimer disease (G30)"	"GR113-052"	2607	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 31 ending August 06, 2022 (provisional)"	"2022/31"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13217	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 31 ending August 06, 2022 (provisional)"	"2022/31"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6430	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 31 ending August 06, 2022 (provisional)"	"2022/31"	"Alzheimer disease (G30)"	"GR113-052"	2720	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 32 ending August 13, 2022 (provisional)"	"2022/32"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13292	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 32 ending August 13, 2022 (provisional)"	"2022/32"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6308	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 32 ending August 13, 2022 (provisional)"	"2022/32"	"Alzheimer disease (G30)"	"GR113-052"	2554	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 33 ending August 20, 2022 (provisional)"	"2022/33"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13232	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 33 ending August 20, 2022 (provisional)"	"2022/33"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6540	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 33 ending August 20, 2022 (provisional)"	"2022/33"	"Alzheimer disease (G30)"	"GR113-052"	2677	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 34 ending August 27, 2022 (provisional)"	"2022/34"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13111	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 34 ending August 27, 2022 (provisional)"	"2022/34"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6294	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 34 ending August 27, 2022 (provisional)"	"2022/34"	"Alzheimer disease (G30)"	"GR113-052"	2685	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 35 ending September 03, 2022 (provisional)"	"2022/35"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13403	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 35 ending September 03, 2022 (provisional)"	"2022/35"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6203	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 35 ending September 03, 2022 (provisional)"	"2022/35"	"Alzheimer disease (G30)"	"GR113-052"	2586	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 36 ending September 10, 2022 (provisional)"	"2022/36"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13157	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 36 ending September 10, 2022 (provisional)"	"2022/36"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6506	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 36 ending September 10, 2022 (provisional)"	"2022/36"	"Alzheimer disease (G30)"	"GR113-052"	2608	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 37 ending September 17, 2022 (provisional)"	"2022/37"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13327	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 37 ending September 17, 2022 (provisional)"	"2022/37"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6172	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 37 ending September 17, 2022 (provisional)"	"2022/37"	"Alzheimer disease (G30)"	"GR113-052"	2731	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 38 ending September 24, 2022 (provisional)"	"2022/38"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13424	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 38 ending September 24, 2022 (provisional)"	"2022/38"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6482	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 38 ending September 24, 2022 (provisional)"	"2022/38"	"Alzheimer disease (G30)"	"GR113-052"	2699	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 39 ending October 01, 2022 (provisional)"	"2022/39"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13277	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 39 ending October 01, 2022 (provisional)"	"2022/39"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6376	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 39 ending October 01, 2022 (provisional)"	"2022/39"	"Alzheimer disease (G30)"	"GR113-052"	2634	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 40 ending October 08, 2022 (provisional)"	"2022/40"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13488	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 40 ending October 08, 2022 (provisional)"	"2022/40"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6409	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 40 ending October 08, 2022 (provisional)"	"2022/40"	"Alzheimer disease (G30)"	"GR113-052"	2841	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 41 ending October 15, 2022 (provisional)"	"2022/41"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13341	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 41 ending October 15, 2022 (provisional)"	"2022/41"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6514	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 41 ending October 15, 2022 (provisional)"	"2022/41"	"Alzheimer disease (G30)"	"GR113-052"	2750	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 42 ending October 22, 2022 (provisional)"	"2022/42"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13350	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 42 ending October 22, 2022 (provisional)"	"2022/42"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6541	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 42 ending October 22, 2022 (provisional)"	"2022/42"	"Alzheimer disease (G30)"	"GR113-052"	2858	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 43 ending October 29, 2022 (provisional)"	"2022/43"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13211	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 43 ending October 29, 2022 (provisional)"	"2022/43"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6684	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 43 ending October 29, 2022 (provisional)"	"2022/43"	"Alzheimer disease (G30)"	"GR113-052"	2887	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 44 ending November 05, 2022 (provisional)"	"2022/44"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13561	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 44 ending November 05, 2022 (provisional)"	"2022/44"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6699	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 44 ending November 05, 2022 (provisional)"	"2022/44"	"Alzheimer disease (G30)"	"GR113-052"	2853	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 45 ending November 12, 2022 (provisional)"	"2022/45"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13461	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 45 ending November 12, 2022 (provisional)"	"2022/45"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6771	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 45 ending November 12, 2022 (provisional)"	"2022/45"	"Alzheimer disease (G30)"	"GR113-052"	2834	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 46 ending November 19, 2022 (provisional)"	"2022/46"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13571	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 46 ending November 19, 2022 (provisional)"	"2022/46"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6938	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 46 ending November 19, 2022 (provisional)"	"2022/46"	"Alzheimer disease (G30)"	"GR113-052"	2794	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 47 ending November 26, 2022 (provisional)"	"2022/47"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13761	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 47 ending November 26, 2022 (provisional)"	"2022/47"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7201	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 47 ending November 26, 2022 (provisional)"	"2022/47"	"Alzheimer disease (G30)"	"GR113-052"	3070	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 48 ending December 03, 2022 (provisional)"	"2022/48"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13691	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 48 ending December 03, 2022 (provisional)"	"2022/48"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7473	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 48 ending December 03, 2022 (provisional)"	"2022/48"	"Alzheimer disease (G30)"	"GR113-052"	3168	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 49 ending December 10, 2022 (provisional)"	"2022/49"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13795	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 49 ending December 10, 2022 (provisional)"	"2022/49"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7430	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 49 ending December 10, 2022 (provisional)"	"2022/49"	"Alzheimer disease (G30)"	"GR113-052"	3175	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 50 ending December 17, 2022 (provisional)"	"2022/50"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13873	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 50 ending December 17, 2022 (provisional)"	"2022/50"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7522	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 50 ending December 17, 2022 (provisional)"	"2022/50"	"Alzheimer disease (G30)"	"GR113-052"	3026	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 51 ending December 24, 2022 (provisional)"	"2022/51"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13872	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 51 ending December 24, 2022 (provisional)"	"2022/51"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7776	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 51 ending December 24, 2022 (provisional)"	"2022/51"	"Alzheimer disease (G30)"	"GR113-052"	3242	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 52 ending December 31, 2022 (provisional)"	"2022/52"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13907	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 52 ending December 31, 2022 (provisional)"	"2022/52"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7964	Not Applicable	Not Applicable
+	"2022 (provisional)"	"2022"	"2022 Week 52 ending December 31, 2022 (provisional)"	"2022/52"	"Alzheimer disease (G30)"	"GR113-052"	3458	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 01 ending January 07, 2023 (provisional)"	"2023/01"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13800	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 01 ending January 07, 2023 (provisional)"	"2023/01"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7785	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 01 ending January 07, 2023 (provisional)"	"2023/01"	"Alzheimer disease (G30)"	"GR113-052"	3214	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 02 ending January 14, 2023 (provisional)"	"2023/02"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13652	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 02 ending January 14, 2023 (provisional)"	"2023/02"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7386	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 02 ending January 14, 2023 (provisional)"	"2023/02"	"Alzheimer disease (G30)"	"GR113-052"	3123	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 03 ending January 21, 2023 (provisional)"	"2023/03"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13775	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 03 ending January 21, 2023 (provisional)"	"2023/03"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7087	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 03 ending January 21, 2023 (provisional)"	"2023/03"	"Alzheimer disease (G30)"	"GR113-052"	2990	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 04 ending January 28, 2023 (provisional)"	"2023/04"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13374	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 04 ending January 28, 2023 (provisional)"	"2023/04"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6879	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 04 ending January 28, 2023 (provisional)"	"2023/04"	"Alzheimer disease (G30)"	"GR113-052"	2915	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 05 ending February 04, 2023 (provisional)"	"2023/05"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13529	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 05 ending February 04, 2023 (provisional)"	"2023/05"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7065	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 05 ending February 04, 2023 (provisional)"	"2023/05"	"Alzheimer disease (G30)"	"GR113-052"	2853	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 06 ending February 11, 2023 (provisional)"	"2023/06"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13754	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 06 ending February 11, 2023 (provisional)"	"2023/06"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6879	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 06 ending February 11, 2023 (provisional)"	"2023/06"	"Alzheimer disease (G30)"	"GR113-052"	3002	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 07 ending February 18, 2023 (provisional)"	"2023/07"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13341	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 07 ending February 18, 2023 (provisional)"	"2023/07"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6816	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 07 ending February 18, 2023 (provisional)"	"2023/07"	"Alzheimer disease (G30)"	"GR113-052"	2906	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 08 ending February 25, 2023 (provisional)"	"2023/08"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13665	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 08 ending February 25, 2023 (provisional)"	"2023/08"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6826	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 08 ending February 25, 2023 (provisional)"	"2023/08"	"Alzheimer disease (G30)"	"GR113-052"	2796	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 09 ending March 04, 2023 (provisional)"	"2023/09"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13332	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 09 ending March 04, 2023 (provisional)"	"2023/09"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6870	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 09 ending March 04, 2023 (provisional)"	"2023/09"	"Alzheimer disease (G30)"	"GR113-052"	2747	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 10 ending March 11, 2023 (provisional)"	"2023/10"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13397	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 10 ending March 11, 2023 (provisional)"	"2023/10"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6826	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 10 ending March 11, 2023 (provisional)"	"2023/10"	"Alzheimer disease (G30)"	"GR113-052"	2704	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 11 ending March 18, 2023 (provisional)"	"2023/11"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13508	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 11 ending March 18, 2023 (provisional)"	"2023/11"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6811	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 11 ending March 18, 2023 (provisional)"	"2023/11"	"Alzheimer disease (G30)"	"GR113-052"	2673	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 12 ending March 25, 2023 (provisional)"	"2023/12"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13340	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 12 ending March 25, 2023 (provisional)"	"2023/12"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6812	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 12 ending March 25, 2023 (provisional)"	"2023/12"	"Alzheimer disease (G30)"	"GR113-052"	2684	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 13 ending April 01, 2023 (provisional)"	"2023/13"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13073	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 13 ending April 01, 2023 (provisional)"	"2023/13"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6635	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 13 ending April 01, 2023 (provisional)"	"2023/13"	"Alzheimer disease (G30)"	"GR113-052"	2839	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 14 ending April 08, 2023 (provisional)"	"2023/14"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13232	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 14 ending April 08, 2023 (provisional)"	"2023/14"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6554	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 14 ending April 08, 2023 (provisional)"	"2023/14"	"Alzheimer disease (G30)"	"GR113-052"	2536	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 15 ending April 15, 2023 (provisional)"	"2023/15"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13191	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 15 ending April 15, 2023 (provisional)"	"2023/15"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6562	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 15 ending April 15, 2023 (provisional)"	"2023/15"	"Alzheimer disease (G30)"	"GR113-052"	2657	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 16 ending April 22, 2023 (provisional)"	"2023/16"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12929	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 16 ending April 22, 2023 (provisional)"	"2023/16"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6369	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 16 ending April 22, 2023 (provisional)"	"2023/16"	"Alzheimer disease (G30)"	"GR113-052"	2570	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 17 ending April 29, 2023 (provisional)"	"2023/17"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13192	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 17 ending April 29, 2023 (provisional)"	"2023/17"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6360	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 17 ending April 29, 2023 (provisional)"	"2023/17"	"Alzheimer disease (G30)"	"GR113-052"	2611	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 18 ending May 06, 2023 (provisional)"	"2023/18"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13213	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 18 ending May 06, 2023 (provisional)"	"2023/18"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6395	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 18 ending May 06, 2023 (provisional)"	"2023/18"	"Alzheimer disease (G30)"	"GR113-052"	2475	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 19 ending May 13, 2023 (provisional)"	"2023/19"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13192	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 19 ending May 13, 2023 (provisional)"	"2023/19"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6286	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 19 ending May 13, 2023 (provisional)"	"2023/19"	"Alzheimer disease (G30)"	"GR113-052"	2613	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 20 ending May 20, 2023 (provisional)"	"2023/20"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12928	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 20 ending May 20, 2023 (provisional)"	"2023/20"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6176	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 20 ending May 20, 2023 (provisional)"	"2023/20"	"Alzheimer disease (G30)"	"GR113-052"	2461	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 21 ending May 27, 2023 (provisional)"	"2023/21"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12957	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 21 ending May 27, 2023 (provisional)"	"2023/21"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6081	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 21 ending May 27, 2023 (provisional)"	"2023/21"	"Alzheimer disease (G30)"	"GR113-052"	2364	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 22 ending June 03, 2023 (provisional)"	"2023/22"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13045	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 22 ending June 03, 2023 (provisional)"	"2023/22"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6108	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 22 ending June 03, 2023 (provisional)"	"2023/22"	"Alzheimer disease (G30)"	"GR113-052"	2500	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 23 ending June 10, 2023 (provisional)"	"2023/23"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13120	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 23 ending June 10, 2023 (provisional)"	"2023/23"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6020	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 23 ending June 10, 2023 (provisional)"	"2023/23"	"Alzheimer disease (G30)"	"GR113-052"	2373	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 24 ending June 17, 2023 (provisional)"	"2023/24"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13319	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 24 ending June 17, 2023 (provisional)"	"2023/24"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5982	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 24 ending June 17, 2023 (provisional)"	"2023/24"	"Alzheimer disease (G30)"	"GR113-052"	2487	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 25 ending June 24, 2023 (provisional)"	"2023/25"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12969	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 25 ending June 24, 2023 (provisional)"	"2023/25"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6136	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 25 ending June 24, 2023 (provisional)"	"2023/25"	"Alzheimer disease (G30)"	"GR113-052"	2516	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 26 ending July 01, 2023 (provisional)"	"2023/26"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12950	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 26 ending July 01, 2023 (provisional)"	"2023/26"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6157	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 26 ending July 01, 2023 (provisional)"	"2023/26"	"Alzheimer disease (G30)"	"GR113-052"	2427	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 27 ending July 08, 2023 (provisional)"	"2023/27"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13038	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 27 ending July 08, 2023 (provisional)"	"2023/27"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6113	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 27 ending July 08, 2023 (provisional)"	"2023/27"	"Alzheimer disease (G30)"	"GR113-052"	2397	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 28 ending July 15, 2023 (provisional)"	"2023/28"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13013	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 28 ending July 15, 2023 (provisional)"	"2023/28"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6148	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 28 ending July 15, 2023 (provisional)"	"2023/28"	"Alzheimer disease (G30)"	"GR113-052"	2359	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 29 ending July 22, 2023 (provisional)"	"2023/29"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13090	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 29 ending July 22, 2023 (provisional)"	"2023/29"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5975	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 29 ending July 22, 2023 (provisional)"	"2023/29"	"Alzheimer disease (G30)"	"GR113-052"	2419	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 30 ending July 29, 2023 (provisional)"	"2023/30"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13149	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 30 ending July 29, 2023 (provisional)"	"2023/30"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5943	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 30 ending July 29, 2023 (provisional)"	"2023/30"	"Alzheimer disease (G30)"	"GR113-052"	2387	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 31 ending August 05, 2023 (provisional)"	"2023/31"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13086	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 31 ending August 05, 2023 (provisional)"	"2023/31"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6004	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 31 ending August 05, 2023 (provisional)"	"2023/31"	"Alzheimer disease (G30)"	"GR113-052"	2491	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 32 ending August 12, 2023 (provisional)"	"2023/32"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13400	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 32 ending August 12, 2023 (provisional)"	"2023/32"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6098	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 32 ending August 12, 2023 (provisional)"	"2023/32"	"Alzheimer disease (G30)"	"GR113-052"	2492	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 33 ending August 19, 2023 (provisional)"	"2023/33"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13223	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 33 ending August 19, 2023 (provisional)"	"2023/33"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6240	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 33 ending August 19, 2023 (provisional)"	"2023/33"	"Alzheimer disease (G30)"	"GR113-052"	2515	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 34 ending August 26, 2023 (provisional)"	"2023/34"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13446	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 34 ending August 26, 2023 (provisional)"	"2023/34"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6109	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 34 ending August 26, 2023 (provisional)"	"2023/34"	"Alzheimer disease (G30)"	"GR113-052"	2560	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 35 ending September 02, 2023 (provisional)"	"2023/35"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13068	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 35 ending September 02, 2023 (provisional)"	"2023/35"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5900	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 35 ending September 02, 2023 (provisional)"	"2023/35"	"Alzheimer disease (G30)"	"GR113-052"	2466	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 36 ending September 09, 2023 (provisional)"	"2023/36"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13169	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 36 ending September 09, 2023 (provisional)"	"2023/36"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6157	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 36 ending September 09, 2023 (provisional)"	"2023/36"	"Alzheimer disease (G30)"	"GR113-052"	2624	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 37 ending September 16, 2023 (provisional)"	"2023/37"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13189	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 37 ending September 16, 2023 (provisional)"	"2023/37"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6181	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 37 ending September 16, 2023 (provisional)"	"2023/37"	"Alzheimer disease (G30)"	"GR113-052"	2539	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 38 ending September 23, 2023 (provisional)"	"2023/38"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13312	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 38 ending September 23, 2023 (provisional)"	"2023/38"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6151	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 38 ending September 23, 2023 (provisional)"	"2023/38"	"Alzheimer disease (G30)"	"GR113-052"	2512	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 39 ending September 30, 2023 (provisional)"	"2023/39"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13414	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 39 ending September 30, 2023 (provisional)"	"2023/39"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6086	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 39 ending September 30, 2023 (provisional)"	"2023/39"	"Alzheimer disease (G30)"	"GR113-052"	2612	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 40 ending October 07, 2023 (provisional)"	"2023/40"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13532	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 40 ending October 07, 2023 (provisional)"	"2023/40"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6146	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 40 ending October 07, 2023 (provisional)"	"2023/40"	"Alzheimer disease (G30)"	"GR113-052"	2621	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 41 ending October 14, 2023 (provisional)"	"2023/41"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13358	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 41 ending October 14, 2023 (provisional)"	"2023/41"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6247	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 41 ending October 14, 2023 (provisional)"	"2023/41"	"Alzheimer disease (G30)"	"GR113-052"	2698	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 42 ending October 21, 2023 (provisional)"	"2023/42"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13523	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 42 ending October 21, 2023 (provisional)"	"2023/42"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6304	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 42 ending October 21, 2023 (provisional)"	"2023/42"	"Alzheimer disease (G30)"	"GR113-052"	2694	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 43 ending October 28, 2023 (provisional)"	"2023/43"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13496	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 43 ending October 28, 2023 (provisional)"	"2023/43"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6334	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 43 ending October 28, 2023 (provisional)"	"2023/43"	"Alzheimer disease (G30)"	"GR113-052"	2731	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 44 ending November 04, 2023 (provisional)"	"2023/44"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13327	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 44 ending November 04, 2023 (provisional)"	"2023/44"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6442	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 44 ending November 04, 2023 (provisional)"	"2023/44"	"Alzheimer disease (G30)"	"GR113-052"	2741	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 45 ending November 11, 2023 (provisional)"	"2023/45"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13573	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 45 ending November 11, 2023 (provisional)"	"2023/45"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6446	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 45 ending November 11, 2023 (provisional)"	"2023/45"	"Alzheimer disease (G30)"	"GR113-052"	2995	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 46 ending November 18, 2023 (provisional)"	"2023/46"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13495	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 46 ending November 18, 2023 (provisional)"	"2023/46"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6370	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 46 ending November 18, 2023 (provisional)"	"2023/46"	"Alzheimer disease (G30)"	"GR113-052"	2899	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 47 ending November 25, 2023 (provisional)"	"2023/47"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13048	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 47 ending November 25, 2023 (provisional)"	"2023/47"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6589	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 47 ending November 25, 2023 (provisional)"	"2023/47"	"Alzheimer disease (G30)"	"GR113-052"	2815	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 48 ending December 02, 2023 (provisional)"	"2023/48"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13665	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 48 ending December 02, 2023 (provisional)"	"2023/48"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6816	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 48 ending December 02, 2023 (provisional)"	"2023/48"	"Alzheimer disease (G30)"	"GR113-052"	2953	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 49 ending December 09, 2023 (provisional)"	"2023/49"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13780	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 49 ending December 09, 2023 (provisional)"	"2023/49"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6916	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 49 ending December 09, 2023 (provisional)"	"2023/49"	"Alzheimer disease (G30)"	"GR113-052"	2963	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 50 ending December 16, 2023 (provisional)"	"2023/50"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13759	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 50 ending December 16, 2023 (provisional)"	"2023/50"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6915	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 50 ending December 16, 2023 (provisional)"	"2023/50"	"Alzheimer disease (G30)"	"GR113-052"	2981	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 51 ending December 23, 2023 (provisional)"	"2023/51"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13831	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 51 ending December 23, 2023 (provisional)"	"2023/51"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7100	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 51 ending December 23, 2023 (provisional)"	"2023/51"	"Alzheimer disease (G30)"	"GR113-052"	3040	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 52 ending December 30, 2023 (provisional)"	"2023/52"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13744	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 52 ending December 30, 2023 (provisional)"	"2023/52"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7123	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week 52 ending December 30, 2023 (provisional)"	"2023/52"	"Alzheimer disease (G30)"	"GR113-052"	3046	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"2023 Week Not Available (provisional)"	"2023/99"	"Diabetes mellitus (E10-E14)"	"GR113-046"	37	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 01 ending January 06, 2024 (provisional)"	"2024/01"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13623	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 01 ending January 06, 2024 (provisional)"	"2024/01"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7421	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 01 ending January 06, 2024 (provisional)"	"2024/01"	"Alzheimer disease (G30)"	"GR113-052"	3143	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 02 ending January 13, 2024 (provisional)"	"2024/02"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13975	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 02 ending January 13, 2024 (provisional)"	"2024/02"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7359	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 02 ending January 13, 2024 (provisional)"	"2024/02"	"Alzheimer disease (G30)"	"GR113-052"	3186	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 03 ending January 20, 2024 (provisional)"	"2024/03"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13659	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 03 ending January 20, 2024 (provisional)"	"2024/03"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7260	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 03 ending January 20, 2024 (provisional)"	"2024/03"	"Alzheimer disease (G30)"	"GR113-052"	3218	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 04 ending January 27, 2024 (provisional)"	"2024/04"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13779	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 04 ending January 27, 2024 (provisional)"	"2024/04"	"Diabetes mellitus (E10-E14)"	"GR113-046"	7022	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 04 ending January 27, 2024 (provisional)"	"2024/04"	"Alzheimer disease (G30)"	"GR113-052"	3292	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 05 ending February 03, 2024 (provisional)"	"2024/05"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13436	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 05 ending February 03, 2024 (provisional)"	"2024/05"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6608	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 05 ending February 03, 2024 (provisional)"	"2024/05"	"Alzheimer disease (G30)"	"GR113-052"	2925	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 06 ending February 10, 2024 (provisional)"	"2024/06"	"Malignant neoplasms (C00-C97)"	"GR113-019"	13477	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 06 ending February 10, 2024 (provisional)"	"2024/06"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6510	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 06 ending February 10, 2024 (provisional)"	"2024/06"	"Alzheimer disease (G30)"	"GR113-052"	2743	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 07 ending February 17, 2024 (provisional)"	"2024/07"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12928	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 07 ending February 17, 2024 (provisional)"	"2024/07"	"Diabetes mellitus (E10-E14)"	"GR113-046"	6126	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 07 ending February 17, 2024 (provisional)"	"2024/07"	"Alzheimer disease (G30)"	"GR113-052"	2740	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 08 ending February 24, 2024 (provisional)"	"2024/08"	"Malignant neoplasms (C00-C97)"	"GR113-019"	12401	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 08 ending February 24, 2024 (provisional)"	"2024/08"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5809	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 08 ending February 24, 2024 (provisional)"	"2024/08"	"Alzheimer disease (G30)"	"GR113-052"	2669	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 09 ending March 02, 2024 (provisional)"	"2024/09"	"Malignant neoplasms (C00-C97)"	"GR113-019"	11162	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 09 ending March 02, 2024 (provisional)"	"2024/09"	"Diabetes mellitus (E10-E14)"	"GR113-046"	5114	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 09 ending March 02, 2024 (provisional)"	"2024/09"	"Alzheimer disease (G30)"	"GR113-052"	2412	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 10 ending March 09, 2024 (provisional)"	"2024/10"	"Malignant neoplasms (C00-C97)"	"GR113-019"	8821	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 10 ending March 09, 2024 (provisional)"	"2024/10"	"Diabetes mellitus (E10-E14)"	"GR113-046"	3749	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"2024 Week 10 ending March 09, 2024 (provisional)"	"2024/10"	"Alzheimer disease (G30)"	"GR113-052"	1961	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"MCD - ICD-10 113 Cause List: Malignant neoplasms (C00-C97); Diabetes mellitus (E10-E14); Alzheimer disease (G30)"
+"Group By: MMWR Year; MMWR Week; MCD - ICD-10 113 Cause List"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Mar 20, 2024 11:22:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Mar 20, 2024 11:22:49"
+"AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Totals and Percent of Total are disabled when data are grouped by 113 or 130 Cause Lists. Check Caveats below for more"
+"information."
+"3. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"4. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. Totals and Percent of Total are disabled when data are grouped by a 113 or 130 Cause List because both aggregate and detailed"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. Aggregate values for MCD 113 and 130 Groups may not be the sum of their member values because a death record could contain"
+"more than one member of a larger aggregate. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#MCD"
+"Aggregates."
+"3. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Deaths with the underlying cause classified with O00-O99 are"
+"subject to further processing before these deaths records are considered final. Provisional deaths have not undergone full"
+"processing and review and therefore should not be considered final for statistical purposes. Caution should be used in"
+"interpreting these data. More information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. Deaths related to external causes of injury or sudden death: In the provisional mortality data, causes of death classified as"
+"external causes of injury (ICD-10 codes V01-Y89), sudden deaths (ICD-10 codes R95 and R96), or drug poisoning (ICD-10 codes"
+"T36-T50), have the cause of death labeled as 'Data not shown due to 6 month lag to account for delays in death certificate"
+"completion for certain causes of death.' For these deaths occurring 24 weeks prior to the final date in the provisional data,"
+"the number of deaths and related statistics are not available by specific cause of death for ICD-10 codes V01-Y89, R95, R96, or"
+"T36-T50. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#999."
+"8. Deaths occurring through March 09, 2024 as of March 17, 2024."

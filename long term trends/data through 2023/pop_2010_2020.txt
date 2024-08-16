@@ -1,0 +1,32 @@
+"Notes"	"Yearly July 1st Estimates"	"Yearly July 1st Estimates Code"	Population
+	"2010"	"2010"	309327143
+	"2011"	"2011"	311583481
+	"2012"	"2012"	313877662
+	"2013"	"2013"	316059947
+	"2014"	"2014"	318386329
+	"2015"	"2015"	320738994
+	"2016"	"2016"	323071755
+	"2017"	"2017"	325122128
+	"2018"	"2018"	326838199
+	"2019"	"2019"	328329953
+	"2020"	"2020"	329484123
+"---"
+"Dataset: Single-Race Population Estimates 2010-2020 by State and Single-Year Age"
+"Query Parameters:"
+"Group By: Yearly July 1st Estimates"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/single-race.html for more information."
+"---"
+"Query Date: Mar 20, 2024 1:23:29 PM"
+"---"
+"Suggested Citation: Single-race Population Estimates, United States, 2010-2020. July 1st resident population by state, age, sex,"
+"single-race, and Hispanic origin, on CDC WONDER Online Database. Vintage 2020 estimates released by U.S. Census Bureau on July"
+"27, 2021. Accessed at http://wonder.cdc.gov/single-race-single-year-v2020.html on Mar 20, 2024 1:23:29 PM"
+"---"
+Footnotes:
+"1. Estimates for 2010-2020 are single-race Vintage 2020 postcensal estimates of the July 1 resident population. These estimates"
+"were prepared and released by the U.S. Census Bureau on July 27, 2021."
+"---"
+Caveats:
